@@ -5,7 +5,7 @@
  * en una puntuación normalizada [0-100].
  */
 
-export type RiskLevel = 'low' | 'moderate' | 'high' | 'critical';
+export type RiskLevel = 'low' | 'moderate' | 'high';
 
 export interface ScoreInput {
   ageDays: number | null;
@@ -42,9 +42,8 @@ function calcAgeScore(ageDays: number | null): number {
 // ── Clasificación por score ───────────────────────────────────────────────────
 
 function classify(score: number): { level: RiskLevel; badgeColor: string } {
-  if (score >= 75) return { level: 'critical', badgeColor: '#C0392B' };
-  if (score >= 50) return { level: 'high',     badgeColor: '#E67E22' };
-  if (score >= 25) return { level: 'moderate', badgeColor: '#F39C12' };
+  if (score >= 61) return { level: 'high', badgeColor: '#C0392B' };
+  if (score >= 31) return { level: 'moderate', badgeColor: '#F39C12' };
   return              { level: 'low',          badgeColor: '#27AE60' };
 }
 
