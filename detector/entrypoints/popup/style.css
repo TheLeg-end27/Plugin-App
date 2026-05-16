@@ -1,97 +1,135 @@
-:root {
-  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
-  line-height: 1.5;
-  font-weight: 400;
-
-  color-scheme: light dark;
-  color: rgba(255, 255, 255, 0.87);
-  background-color: #242424;
-
-  font-synthesis: none;
-  text-rendering: optimizeLegibility;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  -webkit-text-size-adjust: 100%;
-}
-
-a {
-  font-weight: 500;
-  color: #646cff;
-  text-decoration: inherit;
-}
-a:hover {
-  color: #535bf2;
-}
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
 body {
-  margin: 0;
+  width: 320px;
+  min-height: 200px;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  background: #1C1C1E;
+  color: #F2F2F7;
+  font-size: 13px;
+}
+
+#app { display: flex; flex-direction: column; }
+
+/* ── Header ── */
+.header {
+  padding: 14px 16px;
   display: flex;
-  place-items: center;
-  min-width: 320px;
-  min-height: 100vh;
+  align-items: center;
+  gap: 10px;
+  border-bottom: 2px solid var(--level-color);
 }
 
-h1 {
-  font-size: 3.2em;
-  line-height: 1.1;
+.header-icon { font-size: 22px; }
+
+.header-info { flex: 1; min-width: 0; }
+
+.header-level {
+  font-size: 15px;
+  font-weight: 700;
+  color: var(--level-color);
 }
 
-#app {
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 2rem;
+.header-domain {
+  font-size: 11px;
+  font-family: monospace;
+  color: rgba(255,255,255,0.5);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.header-score {
+  font-size: 24px;
+  font-weight: 700;
+  color: var(--level-color);
+  font-family: monospace;
+}
+
+.header-score-label {
+  font-size: 9px;
+  color: rgba(255,255,255,0.3);
+  text-align: right;
+}
+
+/* ── Explanation ── */
+.explanation {
+  margin: 12px 16px;
+  padding: 10px 12px;
+  background: rgba(255,255,255,0.05);
+  border-left: 3px solid var(--level-color);
+  border-radius: 4px;
+  font-size: 12px;
+  line-height: 1.5;
+  color: rgba(255,255,255,0.85);
+}
+
+/* ── Indicators ── */
+.indicators { padding: 0 16px 12px; display: flex; flex-direction: column; gap: 4px; }
+
+.indicator {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 6px 10px;
+  background: rgba(255,255,255,0.04);
+  border-radius: 5px;
+}
+
+.indicator-name {
+  font-family: monospace;
+  font-size: 11px;
+  color: rgba(255,255,255,0.45);
+}
+
+.indicator-value {
+  font-family: monospace;
+  font-size: 11px;
+  font-weight: 600;
+}
+
+/* ── Footer ── */
+.footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 16px;
+  border-top: 1px solid rgba(255,255,255,0.06);
+}
+
+.footer-link {
+  font-size: 10px;
+  color: rgba(255,255,255,0.35);
+  text-decoration: none;
+}
+
+.footer-link:hover { color: rgba(255,255,255,0.6); }
+
+.clear-btn {
+  font-size: 10px;
+  color: rgba(255,255,255,0.3);
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-family: inherit;
+  padding: 0;
+}
+
+.clear-btn:hover { color: rgba(255,255,255,0.6); }
+
+/* ── Source ── */
+.source {
+  padding: 6px 16px 10px;
+  font-size: 9px;
+  font-family: monospace;
+  color: rgba(255,255,255,0.2);
   text-align: center;
 }
 
-.logo {
-  height: 6em;
-  padding: 1.5em;
-  will-change: filter;
-  transition: filter 300ms;
-}
-.logo:hover {
-  filter: drop-shadow(0 0 2em #54bc4ae0);
-}
-.logo.vanilla:hover {
-  filter: drop-shadow(0 0 2em #3178c6aa);
-}
-
-.card {
-  padding: 2em;
-}
-
-.read-the-docs {
-  color: #888;
-}
-
-button {
-  border-radius: 8px;
-  border: 1px solid transparent;
-  padding: 0.6em 1.2em;
-  font-size: 1em;
-  font-weight: 500;
-  font-family: inherit;
-  background-color: #1a1a1a;
-  cursor: pointer;
-  transition: border-color 0.25s;
-}
-button:hover {
-  border-color: #646cff;
-}
-button:focus,
-button:focus-visible {
-  outline: 4px auto -webkit-focus-ring-color;
-}
-
-@media (prefers-color-scheme: light) {
-  :root {
-    color: #213547;
-    background-color: #ffffff;
-  }
-  a:hover {
-    color: #747bff;
-  }
-  button {
-    background-color: #f9f9f9;
-  }
+/* ── Loading / Error states ── */
+.state-msg {
+  padding: 32px 16px;
+  text-align: center;
+  color: rgba(255,255,255,0.4);
+  font-size: 12px;
 }
