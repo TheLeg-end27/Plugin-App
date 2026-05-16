@@ -97,7 +97,7 @@ export default defineBackground(() => {
       result.badgeColor
     );
 
-    // 7 — Notificar Content Script si riesgo alto o crítico
+    // 7 — Notificar Content Script si riesgo alto 
     if (result.score >= 50) {
       await notifyContentScript(details.tabId, {
         domain,
@@ -107,6 +107,13 @@ export default defineBackground(() => {
       });
     }
 
+    chrome.runtime.onMessage.addListener((message, _sender, sendResponse) => {
+      if (message.type === 'ADD_WHITELIST') {
+        import('../utils/cache').then(({ addToWhitelist }) => {
+          addToWhitelist(message.domain, 0, 'high');
+        });
+      }
+    });
     console.log(`[SW] ${domain} → score ${result.score} (${result.level}), edad ${rdap.ageDays}d`);
   });
 });
@@ -127,8 +134,7 @@ function formatDays(ageDays: number | null): string {
 
 function getBadgeColor(nivel: string): string {
   const colors: Record<string, string> = {
-    critical: '#C0392B',
-    high:     '#E67E22',
+    high:     '#C0392B',
     moderate: '#F39C12',
     low:      '#27AE60',
   };
