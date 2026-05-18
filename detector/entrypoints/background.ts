@@ -1,19 +1,18 @@
-import {parse} from 'tldts';
-import { queryRdap } from '../utils/rdap';
+import { parse } from 'tldts';
+import { queryRdap, fetchWithTimeout } from '../utils/rdap';
 import { calcEntropy } from '../utils/entropy';
 import { calcScore } from '../utils/scoring';
-import { getCached, setCached, isWhitelisted } from '../utils/cache';
+import { getCached, setCached, isWhitelisted, addToWhitelist } from '../utils/cache';
 
-const VT_SCORE_THRESHOLD = 45;   // activar VT si score preliminar ≥ este valor
-const VT_API_KEY = '';           // añadir clave aquí en fase de integración VT
+const VT_SCORE_THRESHOLD = 45;
+const VT_API_KEY = import.meta.env.WXT_VT_API_KEY ?? '';
 
 export default defineBackground(() => {
+  // ── Listener de navegación ────────────────────────────────────────────────
   chrome.webNavigation.onCommitted.addListener(async (details) => {
-    // Solo frame principal, ignorar iframes
     if (details.frameId !== 0) return;
-
     const url = details.url;
-    if (!url.startsWith('http')) return;   // ignorar chrome://, about:, etc.
+    if (!url.startsWith('http')) return;
 
     // 1 — Extraer eTLD+1
     const parsed = parse(url);
@@ -23,7 +22,6 @@ export default defineBackground(() => {
     // 2 — Comprobar whitelist
     const whitelisted = await isWhitelisted(domain);
     if (whitelisted) {
-      // Mostrar badge gris sin banner
       await updateBadge(details.tabId, '✓', '#555555');
       return;
     }
@@ -31,14 +29,8 @@ export default defineBackground(() => {
     // 3 — Consultar caché
     const cached = await getCached(domain);
     if (cached) {
-      await updateBadge(
-        details.tabId,
-        formatDays(cached.ageDays),
-        getBadgeColor(cached.nivel)
-      );
-      if (cached.scoreFinal >= 50) {
-        await notifyContentScript(details.tabId, cached);
-      }
+      await updateBadge(details.tabId, formatDays(cached.ageDays), getBadgeColor(cached.nivel));
+      if (cached.scoreFinal >= 50) await notifyContentScript(details.tabId, cached);
       return;
     }
 
@@ -48,7 +40,7 @@ export default defineBackground(() => {
       Promise.resolve(calcEntropy(domain)),
     ]);
 
-    // Score preliminar sin VT para decidir si consultarlo
+    // Score preliminar para decidir si activar VT
     const preliminary = calcScore({
       ageDays:      rdap.ageDays,
       entropyScore: entropy.score,
@@ -71,7 +63,7 @@ export default defineBackground(() => {
       ageDays:      rdap.ageDays,
       entropyScore: entropy.score,
       vtScore,
-      tlsScore:     0,           // TLS se añade en fase siguiente
+      tlsScore:     0,
       vtAvailable,
     });
 
@@ -91,13 +83,9 @@ export default defineBackground(() => {
     });
 
     // 6 — Actualizar badge
-    await updateBadge(
-      details.tabId,
-      formatDays(rdap.ageDays),
-      result.badgeColor
-    );
+    await updateBadge(details.tabId, formatDays(rdap.ageDays), result.badgeColor);
 
-    // 7 — Notificar Content Script si riesgo alto 
+    // 7 — Banner si score alto o crítico
     if (result.score >= 50) {
       await notifyContentScript(details.tabId, {
         domain,
@@ -107,14 +95,15 @@ export default defineBackground(() => {
       });
     }
 
-    chrome.runtime.onMessage.addListener((message, _sender, sendResponse) => {
-      if (message.type === 'ADD_WHITELIST') {
-        import('../utils/cache').then(({ addToWhitelist }) => {
-          addToWhitelist(message.domain, 0, 'high');
-        });
-      }
-    });
     console.log(`[SW] ${domain} → score ${result.score} (${result.level}), edad ${rdap.ageDays}d`);
+  });
+
+  // ── Listener de mensajes del Content Script ───────────────────────────────
+  // Registrado UNA sola vez fuera del listener de navegación
+  chrome.runtime.onMessage.addListener((message) => {
+    if (message.type === 'ADD_WHITELIST') {
+      addToWhitelist(message.domain, 0, 'high');
+    }
   });
 });
 
@@ -126,9 +115,9 @@ async function updateBadge(tabId: number, text: string, color: string) {
 }
 
 function formatDays(ageDays: number | null): string {
-  if (ageDays === null)    return '?';
-  if (ageDays < 1)         return '<1d';
-  if (ageDays > 999)       return '+3y';
+  if (ageDays === null) return '?';
+  if (ageDays < 1)     return '<1d';
+  if (ageDays > 999)   return '+3y';
   return `${ageDays}d`;
 }
 
@@ -147,13 +136,43 @@ async function notifyContentScript(tabId: number, data: object) {
   try {
     await chrome.tabs.sendMessage(tabId, { type: 'SHOW_BANNER', data });
   } catch {
-    // El content script puede no estar listo todavía — ignorar silenciosamente
+    // Content script puede no estar listo — ignorar
   }
 }
 
-// ── VirusTotal (stub — se completa en 6.3.9) ─────────────────────────────────
+// ── VirusTotal ────────────────────────────────────────────────────────────────
 
 async function queryVirusTotal(domain: string, apiKey: string): Promise<{ score: number }> {
-  // Implementación completa en sección 6.3.9
-  return { score: 0 };
+  try {
+    const res = await fetchWithTimeout(
+      `https://www.virustotal.com/api/v3/domains/${domain}`,
+      4000,
+      { 'x-apikey': apiKey }
+    );
+
+    if (!res.ok) {
+      console.warn(`[VT] HTTP ${res.status} para ${domain}`);
+      return { score: 0 };
+    }
+
+    const json = await res.json();
+    const stats = json?.data?.attributes?.last_analysis_stats;
+    if (!stats) return { score: 0 };
+
+    const malicious  = stats.malicious  ?? 0;
+    const suspicious = stats.suspicious ?? 0;
+    const total      = malicious + suspicious;
+
+    let score = 0;
+    if      (total > 5) score = 100;
+    else if (total > 2) score = 60;
+    else if (total > 0) score = 25;
+
+    console.log(`[VT] ${domain} → malicious: ${malicious}, suspicious: ${suspicious}, score: ${score}`);
+    return { score };
+
+  } catch (err) {
+    console.warn('[VT] Error:', err);
+    return { score: 0 };
+  }
 }

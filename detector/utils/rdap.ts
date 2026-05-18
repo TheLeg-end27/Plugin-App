@@ -136,11 +136,18 @@ export async function queryRdap(domain: string): Promise<RdapResult> {
 
 // ── Helper: fetch con timeout ─────────────────────────────────────────────────
 
-async function fetchWithTimeout(url: string, ms: number): Promise<Response> {
+export async function fetchWithTimeout(
+  url: string,
+  ms: number,
+  headers?: Record<string, string>
+): Promise<Response> {
   const controller = new AbortController();
   const timer = setTimeout(() => controller.abort(), ms);
   try {
-    return await fetch(url, { signal: controller.signal });
+    return await fetch(url, {
+      signal: controller.signal,
+      headers: headers ?? {},
+    });
   } finally {
     clearTimeout(timer);
   }
