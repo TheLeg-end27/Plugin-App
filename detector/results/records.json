@@ -1,0 +1,9002 @@
+[
+  {
+    "domain": "pls3lrelrerm98xk.sbs",
+    "label": 1,
+    "ageDays": 2,
+    "entropia": 3.39,
+    "score": 73,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "oferta8500341pl.cfd",
+    "label": 1,
+    "ageDays": 1,
+    "entropia": 3.95,
+    "score": 95,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "redirectqsdhvazdq.xyz",
+    "label": 1,
+    "ageDays": 0,
+    "entropia": 3.68,
+    "score": 95,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "vault1passvword.com",
+    "label": 1,
+    "ageDays": 0,
+    "entropia": 3.73,
+    "score": 95,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "mydomain.zone",
+    "label": 1,
+    "ageDays": 1073,
+    "entropia": 3.08,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "twil.io",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 2.25,
+    "score": 40,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "huzur.de",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 2.52,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "pcn-notictb.shop",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 3.24,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "maxiswo.vip",
+    "label": 1,
+    "ageDays": 0,
+    "entropia": 3.12,
+    "score": 83,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "9260425109728.click",
+    "label": 1,
+    "ageDays": 60,
+    "entropia": 3.57,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": null
+  },
+  {
+    "domain": "ca-app-05.info",
+    "label": 1,
+    "ageDays": 1,
+    "entropia": 3.24,
+    "score": 83,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "ido985542.top",
+    "label": 1,
+    "ageDays": 1,
+    "entropia": 3.25,
+    "score": 83,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "busines-help-center.com",
+    "label": 1,
+    "ageDays": 12,
+    "entropia": 3.73,
+    "score": 68,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "parcelwaybill.co.za",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 3.41,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "netlify.app",
+    "label": 1,
+    "ageDays": 2933,
+    "entropia": 3.12,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "webcindario.com",
+    "label": 1,
+    "ageDays": 9211,
+    "entropia": 3.38,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "weebly.com",
+    "label": 1,
+    "ageDays": 7357,
+    "entropia": 2.95,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "secure-base.app",
+    "label": 1,
+    "ageDays": 3,
+    "entropia": 3.04,
+    "score": 73,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "gitbook.io",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 2.42,
+    "score": 40,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "411308-coinbase.com",
+    "label": 1,
+    "ageDays": 3,
+    "entropia": 3.84,
+    "score": 84,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "vercel.app",
+    "label": 1,
+    "ageDays": 2304,
+    "entropia": 2.73,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "iceiy.com",
+    "label": 1,
+    "ageDays": 1991,
+    "entropia": 2.5,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "gestaoweb.info",
+    "label": 1,
+    "ageDays": 1,
+    "entropia": 3.39,
+    "score": 83,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "gestaoweb.click",
+    "label": 1,
+    "ageDays": 1,
+    "entropia": 3.52,
+    "score": 95,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "clientenegocios.lol",
+    "label": 1,
+    "ageDays": 1,
+    "entropia": 3.04,
+    "score": 83,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "netempresasatualizar.digital",
+    "label": 1,
+    "ageDays": 1,
+    "entropia": 3.57,
+    "score": 95,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "bradesco-atualizarpj.digital",
+    "label": 1,
+    "ageDays": 1,
+    "entropia": 3.85,
+    "score": 95,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "pjatendimentos.online",
+    "label": 1,
+    "ageDays": 1,
+    "entropia": 3.38,
+    "score": 83,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "atualizacaocadastralbia.com",
+    "label": 1,
+    "ageDays": 1,
+    "entropia": 3.29,
+    "score": 83,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "supporteacessoempresa.com",
+    "label": 1,
+    "ageDays": 1,
+    "entropia": 3.19,
+    "score": 83,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "lokalna-ofeta343.sbs",
+    "label": 1,
+    "ageDays": 7,
+    "entropia": 3.58,
+    "score": 68,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "ido475668.top",
+    "label": 1,
+    "ageDays": 1,
+    "entropia": 3.25,
+    "score": 83,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "empresaatuliza.digital",
+    "label": 1,
+    "ageDays": 5,
+    "entropia": 3.5,
+    "score": 84,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "suportenetempresas.live",
+    "label": 1,
+    "ageDays": 4,
+    "entropia": 3.44,
+    "score": 73,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "atualizanetempresapj.app",
+    "label": 1,
+    "ageDays": 7,
+    "entropia": 3.38,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": null
+  },
+  {
+    "domain": "workers.dev",
+    "label": 1,
+    "ageDays": 2657,
+    "entropia": 2.92,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "watermelonfarmersydney.com",
+    "label": 1,
+    "ageDays": 1,
+    "entropia": 3.62,
+    "score": 95,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "coinbase-leslie.com",
+    "label": 1,
+    "ageDays": 2,
+    "entropia": 3.35,
+    "score": 73,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "letnie-okazje4743652.sbs",
+    "label": 1,
+    "ageDays": 1,
+    "entropia": 4.14,
+    "score": 95,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "replit.dev",
+    "label": 1,
+    "ageDays": 1940,
+    "entropia": 2.95,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "8549431021-g4.shop",
+    "label": 1,
+    "ageDays": 2,
+    "entropia": 3.69,
+    "score": 84,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "fiinanzas.blog",
+    "label": 1,
+    "ageDays": 11,
+    "entropia": 3.24,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": null
+  },
+  {
+    "domain": "serviciosdetodos.es",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 2.97,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "webflow.io",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 2.73,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "smart-0439238329012.bond",
+    "label": 1,
+    "ageDays": 0,
+    "entropia": 3.94,
+    "score": 95,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "wasmer.app",
+    "label": 1,
+    "ageDays": 2772,
+    "entropia": 2.73,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "wixstudio.com",
+    "label": 1,
+    "ageDays": 3440,
+    "entropia": 3.25,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "ca-app-50.info",
+    "label": 1,
+    "ageDays": 1,
+    "entropia": 3.24,
+    "score": 83,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "n4segf.lat",
+    "label": 1,
+    "ageDays": 2,
+    "entropia": 3.17,
+    "score": 73,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "convitedigitalonlinebr.com",
+    "label": 1,
+    "ageDays": 59,
+    "entropia": 3.62,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": null
+  },
+  {
+    "domain": "aceitarupgradeperfil.com",
+    "label": 1,
+    "ageDays": 7,
+    "entropia": 3.64,
+    "score": 68,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "ca-app-92.info",
+    "label": 1,
+    "ageDays": 1,
+    "entropia": 3.24,
+    "score": 83,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "receberpresentes.store",
+    "label": 1,
+    "ageDays": 7,
+    "entropia": 2.75,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": null
+  },
+  {
+    "domain": "ca-app-49.info",
+    "label": 1,
+    "ageDays": 1,
+    "entropia": 3.24,
+    "score": 83,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "github.io",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 2.75,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "ca-app-68.info",
+    "label": 1,
+    "ageDays": 1,
+    "entropia": 3.24,
+    "score": 83,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "annuler-espace.com",
+    "label": 1,
+    "ageDays": 190,
+    "entropia": 3.45,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "s.id",
+    "label": 1,
+    "ageDays": 4662,
+    "entropia": 1.58,
+    "score": 3,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "bio.site",
+    "label": 1,
+    "ageDays": 2129,
+    "entropia": 2.52,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "atendimentoexclusivo.digital",
+    "label": 1,
+    "ageDays": 12,
+    "entropia": 3.74,
+    "score": 68,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "cm-annulation-operation.com",
+    "label": 1,
+    "ageDays": 0,
+    "entropia": 3.52,
+    "score": 95,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "923812-y04359.cyou",
+    "label": 1,
+    "ageDays": 0,
+    "entropia": 3.62,
+    "score": 95,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "x-update.org",
+    "label": 1,
+    "ageDays": 112,
+    "entropia": 3.46,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "smart-92832.cfd",
+    "label": 1,
+    "ageDays": 2,
+    "entropia": 3.66,
+    "score": 84,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "mg1kqm.casa",
+    "label": 1,
+    "ageDays": 1,
+    "entropia": 2.92,
+    "score": 75,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "932578235.lol",
+    "label": 1,
+    "ageDays": 11,
+    "entropia": 2.92,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": null
+  },
+  {
+    "domain": "touratech.sk",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 3.28,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "8937eyhe.top",
+    "label": 1,
+    "ageDays": 1,
+    "entropia": 3.28,
+    "score": 83,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "873ue64.top",
+    "label": 1,
+    "ageDays": 2,
+    "entropia": 3.32,
+    "score": 73,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "83ue64e.top",
+    "label": 1,
+    "ageDays": 1,
+    "entropia": 3.12,
+    "score": 83,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "83mje64.top",
+    "label": 1,
+    "ageDays": 1,
+    "entropia": 3.32,
+    "score": 83,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "82jwe7uy.top",
+    "label": 1,
+    "ageDays": 1,
+    "entropia": 3.46,
+    "score": 83,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "7wyg63.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 3.17,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_404"
+  },
+  {
+    "domain": "7wy3ter.top",
+    "label": 1,
+    "ageDays": 2,
+    "entropia": 3.12,
+    "score": 73,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "7wu363.sbs",
+    "label": 1,
+    "ageDays": 1,
+    "entropia": 2.73,
+    "score": 75,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "7wgye65.top",
+    "label": 1,
+    "ageDays": 1,
+    "entropia": 3.32,
+    "score": 83,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "7suwhw2.cfd",
+    "label": 1,
+    "ageDays": 2,
+    "entropia": 3.12,
+    "score": 73,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "009297292839391.com",
+    "label": 1,
+    "ageDays": 4,
+    "entropia": 3.04,
+    "score": 73,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "7rkjjergy.cfd",
+    "label": 1,
+    "ageDays": 1,
+    "entropia": 3.25,
+    "score": 83,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "7ewne64r.top",
+    "label": 1,
+    "ageDays": 1,
+    "entropia": 3.28,
+    "score": 83,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "6whvwt3e.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 3.1,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "6ko8u4.cfd",
+    "label": 1,
+    "ageDays": 2,
+    "entropia": 3.17,
+    "score": 73,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "6irjr5.cfd",
+    "label": 1,
+    "ageDays": 1,
+    "entropia": 2.95,
+    "score": 75,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "urbanvixenclothing.com",
+    "label": 1,
+    "ageDays": 6564,
+    "entropia": 3.88,
+    "score": 31,
+    "nivel": "moderate",
+    "rdapError": null
+  },
+  {
+    "domain": "shorturl.at",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 2.92,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "sviluppo.host",
+    "label": 1,
+    "ageDays": 3294,
+    "entropia": 3.08,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "flowcode.com",
+    "label": 1,
+    "ageDays": 5816,
+    "entropia": 2.85,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "6eh64e.sbs",
+    "label": 1,
+    "ageDays": 1,
+    "entropia": 2.5,
+    "score": 75,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "63yge6e.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 2.92,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "5wr53ye.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 3.12,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "5qfwrd.lat",
+    "label": 1,
+    "ageDays": 1,
+    "entropia": 3.17,
+    "score": 83,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "5okj84.cfd",
+    "label": 1,
+    "ageDays": 2,
+    "entropia": 3.17,
+    "score": 73,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "5jh85j.cfd",
+    "label": 1,
+    "ageDays": 1,
+    "entropia": 2.73,
+    "score": 75,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "5eyg364.sbs",
+    "label": 1,
+    "ageDays": 1,
+    "entropia": 3.12,
+    "score": 83,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "4wg6ye.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 3.17,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "4wfg65r.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 3.32,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "4wfc3fe.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 3.12,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "4muhb4h.cfd",
+    "label": 1,
+    "ageDays": 1,
+    "entropia": 2.92,
+    "score": 75,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "49u8he43.cfd",
+    "label": 1,
+    "ageDays": 2,
+    "entropia": 3.28,
+    "score": 73,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "43qfrdr.lat",
+    "label": 1,
+    "ageDays": 1,
+    "entropia": 3.12,
+    "score": 83,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "42rw53.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 3.17,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "42rw4e.lat",
+    "label": 1,
+    "ageDays": 1,
+    "entropia": 2.95,
+    "score": 75,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "cyberaya.com",
+    "label": 1,
+    "ageDays": 3466,
+    "entropia": 2.91,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "42ft2fete.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 2.69,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "sxnckj.com",
+    "label": 1,
+    "ageDays": 333,
+    "entropia": 2.95,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "42g35e4.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 3.12,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "425erwgf2.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 3.42,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "3wt354e.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 2.92,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "3wgv365.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 3.12,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "3qtww5.lat",
+    "label": 1,
+    "ageDays": 1,
+    "entropia": 2.73,
+    "score": 75,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "3qtfw25.lat",
+    "label": 1,
+    "ageDays": 1,
+    "entropia": 3.12,
+    "score": 83,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "3khu3g.cfd",
+    "label": 1,
+    "ageDays": 1,
+    "entropia": 2.95,
+    "score": 75,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "3jih43.sbs",
+    "label": 1,
+    "ageDays": 1,
+    "entropia": 2.73,
+    "score": 75,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "3iu33we.cfd",
+    "label": 1,
+    "ageDays": 2,
+    "entropia": 2.85,
+    "score": 65,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "2qr24rw.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 2.92,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "2koij32.cfd",
+    "label": 1,
+    "ageDays": 2,
+    "entropia": 3.12,
+    "score": 73,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "canjeaefpuntos.club",
+    "label": 1,
+    "ageDays": 83,
+    "entropia": 3.61,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": null
+  },
+  {
+    "domain": "canjeaizpuntos.club",
+    "label": 1,
+    "ageDays": 81,
+    "entropia": 3.73,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": null
+  },
+  {
+    "domain": "2ihu23.sbs",
+    "label": 1,
+    "ageDays": 1,
+    "entropia": 2.73,
+    "score": 75,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "2hy6wh3.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 3.12,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "26g3t4.lat",
+    "label": 1,
+    "ageDays": 1,
+    "entropia": 2.95,
+    "score": 75,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "1yg2y2.cfd",
+    "label": 1,
+    "ageDays": 2,
+    "entropia": 2.73,
+    "score": 65,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "76820.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 3,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "1tff52tw.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 2.85,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "1td25d2.cfd",
+    "label": 1,
+    "ageDays": 1,
+    "entropia": 2.65,
+    "score": 75,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "1rdq5f2.sbs",
+    "label": 1,
+    "ageDays": 1,
+    "entropia": 3.12,
+    "score": 83,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "1gcqw.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 3,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "1fr2t2twy.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 3.02,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "0wu53r.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 3.17,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "miuho.com",
+    "label": 1,
+    "ageDays": 2911,
+    "entropia": 2.5,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "0wuy6e.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 3.17,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "0wkie7y.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 3.32,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "0wkuur7.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 3.12,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "0wk347ye.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 3.46,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "0ej64e.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 2.95,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "clients-2.com",
+    "label": 1,
+    "ageDays": 165,
+    "entropia": 3.42,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "0el4i8ru.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 3.46,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "0ek47r.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 3.17,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "06egte3.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 2.92,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "02juw6e.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 3.32,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "myshop-points.fun",
+    "label": 1,
+    "ageDays": 1,
+    "entropia": 3.5,
+    "score": 95,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "myshop-points.boats",
+    "label": 1,
+    "ageDays": 1,
+    "entropia": 3.42,
+    "score": 83,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "myshop-points.yachts",
+    "label": 1,
+    "ageDays": 1,
+    "entropia": 3.47,
+    "score": 83,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "7426xpk.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 3.12,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "5801vqn.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 3.32,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "5301mwt.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 3.12,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "monease.cc",
+    "label": 1,
+    "ageDays": 2,
+    "entropia": 2.73,
+    "score": 65,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "9182xra.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 3.32,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "7934xwn.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 3.32,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "cryptovortex.net",
+    "label": 1,
+    "ageDays": 2,
+    "entropia": 3.19,
+    "score": 73,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "8203zkn.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 3.32,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "5746xqa.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 3.32,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "9176xra.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 3.32,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "pages.dev",
+    "label": 1,
+    "ageDays": 2086,
+    "entropia": 2.75,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "s-host.net",
+    "label": 1,
+    "ageDays": 4177,
+    "entropia": 2.73,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "59071284.xyz",
+    "label": 1,
+    "ageDays": 2,
+    "entropia": 3.46,
+    "score": 73,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "top-exchange.net",
+    "label": 1,
+    "ageDays": 2,
+    "entropia": 3.32,
+    "score": 73,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "64812973.xyz",
+    "label": 1,
+    "ageDays": 2,
+    "entropia": 3.46,
+    "score": 73,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "6951xpk.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 3.12,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_404"
+  },
+  {
+    "domain": "eexchanger.net",
+    "label": 1,
+    "ageDays": 2,
+    "entropia": 2.93,
+    "score": 65,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "82953061.xyz",
+    "label": 1,
+    "ageDays": 2,
+    "entropia": 3.46,
+    "score": 73,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "8470zra.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 3.32,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_404"
+  },
+  {
+    "domain": "70158364.xyz",
+    "label": 1,
+    "ageDays": 2,
+    "entropia": 3.46,
+    "score": 73,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "7685mqx.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 3.32,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_404"
+  },
+  {
+    "domain": "kingex.cc",
+    "label": 1,
+    "ageDays": 2,
+    "entropia": 2.75,
+    "score": 65,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "weeblysite.com",
+    "label": 1,
+    "ageDays": 4900,
+    "entropia": 3.33,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "maxises.cfd",
+    "label": 1,
+    "ageDays": 0,
+    "entropia": 3.12,
+    "score": 83,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "avanchange.io",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 3.02,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "holtermanpraxi.com",
+    "label": 1,
+    "ageDays": 44,
+    "entropia": 3.62,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": null
+  },
+  {
+    "domain": "jimdosite.com",
+    "label": 1,
+    "ageDays": 3269,
+    "entropia": 3.08,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "changee.biz",
+    "label": 1,
+    "ageDays": 2,
+    "entropia": 3.12,
+    "score": 73,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "r2.dev",
+    "label": 1,
+    "ageDays": 1365,
+    "entropia": 2.32,
+    "score": 3,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "cryptoroyal.cc",
+    "label": 1,
+    "ageDays": 2,
+    "entropia": 2.87,
+    "score": 65,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "wmchanger.org",
+    "label": 1,
+    "ageDays": 2,
+    "entropia": 3.25,
+    "score": 73,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "myshopify.com",
+    "label": 1,
+    "ageDays": 7383,
+    "entropia": 3.08,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "111obmen.net",
+    "label": 1,
+    "ageDays": 2,
+    "entropia": 2.66,
+    "score": 65,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "oferta30582594.shop",
+    "label": 1,
+    "ageDays": 1,
+    "entropia": 3.95,
+    "score": 95,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "sendgrid.net",
+    "label": 1,
+    "ageDays": 6239,
+    "entropia": 2.91,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "recanto.pt",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 2.95,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "detection-ulys.com",
+    "label": 1,
+    "ageDays": 1,
+    "entropia": 3.62,
+    "score": 95,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "zapier.app",
+    "label": 1,
+    "ageDays": 1337,
+    "entropia": 2.42,
+    "score": 3,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "strl-x-chng.net",
+    "label": 1,
+    "ageDays": 2,
+    "entropia": 3.38,
+    "score": 73,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "coincraddle.cc",
+    "label": 1,
+    "ageDays": 2,
+    "entropia": 2.93,
+    "score": 65,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "flashobmen.net",
+    "label": 1,
+    "ageDays": 2,
+    "entropia": 3.39,
+    "score": 73,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "okazje-na-lato-2026-o45gk.sbs",
+    "label": 1,
+    "ageDays": 2,
+    "entropia": 3.97,
+    "score": 84,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "ogloszenie-19215169-dla-ciebie.lat",
+    "label": 1,
+    "ageDays": 1,
+    "entropia": 4.04,
+    "score": 95,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "yaobmen.org",
+    "label": 1,
+    "ageDays": 2,
+    "entropia": 3.12,
+    "score": 73,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "progas.ec",
+    "label": 1,
+    "ageDays": 5433,
+    "entropia": 3,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "papa-change.net",
+    "label": 1,
+    "ageDays": 2,
+    "entropia": 3.04,
+    "score": 73,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "wisencode.com",
+    "label": 1,
+    "ageDays": 1779,
+    "entropia": 3.08,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "best-change.net",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 3.18,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_404"
+  },
+  {
+    "domain": "techyguy.co.bw",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 3.25,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "dasainfra.com",
+    "label": 1,
+    "ageDays": 579,
+    "entropia": 3.19,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "matkahuoltn.com",
+    "label": 1,
+    "ageDays": 1,
+    "entropia": 3.24,
+    "score": 83,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "ca-app-63.info",
+    "label": 1,
+    "ageDays": 1,
+    "entropia": 3.24,
+    "score": 83,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "bolt.host",
+    "label": 1,
+    "ageDays": 551,
+    "entropia": 2.5,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "okazje-na-lato-2026-45gkgr.sbs",
+    "label": 1,
+    "ageDays": 2,
+    "entropia": 4.07,
+    "score": 84,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "web.app",
+    "label": 1,
+    "ageDays": 2688,
+    "entropia": 2.25,
+    "score": 3,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "blogspot.com",
+    "label": 1,
+    "ageDays": 9423,
+    "entropia": 3.03,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "points-myshop.yachts",
+    "label": 1,
+    "ageDays": 1,
+    "entropia": 3.47,
+    "score": 83,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "cloudwaysapps.com",
+    "label": 1,
+    "ageDays": 5249,
+    "entropia": 3.38,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "matkahuoink.vip",
+    "label": 1,
+    "ageDays": 2,
+    "entropia": 3.38,
+    "score": 73,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "pcn-noticrg.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 3.09,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "x13kkaskckl123x123.cfd",
+    "label": 1,
+    "ageDays": 14,
+    "entropia": 3.27,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": null
+  },
+  {
+    "domain": "filmyasan.com",
+    "label": 1,
+    "ageDays": 6876,
+    "entropia": 3.25,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "framer.app",
+    "label": 1,
+    "ageDays": 2056,
+    "entropia": 2.5,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "jzsbtw.com",
+    "label": 1,
+    "ageDays": 301,
+    "entropia": 3.17,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "a1vmo8m.shop",
+    "label": 1,
+    "ageDays": 205,
+    "entropia": 3.1,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "bper-login-servizio.com",
+    "label": 1,
+    "ageDays": 1,
+    "entropia": 3.75,
+    "score": 95,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "mybluehost.me",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 3.25,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "windows.net",
+    "label": 1,
+    "ageDays": 11241,
+    "entropia": 2.92,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "hstn.me",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 2.58,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "free.nf",
+    "label": 1,
+    "ageDays": 1070,
+    "entropia": 1.92,
+    "score": 3,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "dynv6.net",
+    "label": 1,
+    "ageDays": 4225,
+    "entropia": 2.75,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "lovable.app",
+    "label": 1,
+    "ageDays": 1109,
+    "entropia": 2.72,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "fwh.is",
+    "label": 1,
+    "ageDays": 564,
+    "entropia": 2.32,
+    "score": 3,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "onrender.com",
+    "label": 1,
+    "ageDays": 4071,
+    "entropia": 2.73,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "corporativoapp.digital",
+    "label": 1,
+    "ageDays": 27,
+    "entropia": 3.3,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": null
+  },
+  {
+    "domain": "oferta3958269.shop",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 3.85,
+    "score": 68,
+    "nivel": "high",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "01289523rt.shop",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 3.66,
+    "score": 68,
+    "nivel": "high",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "pl-oferta6428.shop",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 3.85,
+    "score": 68,
+    "nivel": "high",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "ido489588.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 3.02,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "smart-23059238.cfd",
+    "label": 1,
+    "ageDays": 2,
+    "entropia": 3.85,
+    "score": 84,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "pl-oferta2960379.click",
+    "label": 1,
+    "ageDays": 46,
+    "entropia": 4.11,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": null
+  },
+  {
+    "domain": "prywatn83812034.bond",
+    "label": 1,
+    "ageDays": 2,
+    "entropia": 3.93,
+    "score": 84,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "smart0298391243.bond",
+    "label": 1,
+    "ageDays": 3,
+    "entropia": 3.93,
+    "score": 84,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "78429.top",
+    "label": 1,
+    "ageDays": 4,
+    "entropia": 3,
+    "score": 73,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "pl-634634643775373.click",
+    "label": 1,
+    "ageDays": 48,
+    "entropia": 3.22,
+    "score": 37,
+    "nivel": "moderate",
+    "rdapError": null
+  },
+  {
+    "domain": "pl-lokalna-ofeta5.shop",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 3.52,
+    "score": 68,
+    "nivel": "high",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "2834912oferi180.shop",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 3.83,
+    "score": 68,
+    "nivel": "high",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "smar9438-65j.cfd",
+    "label": 1,
+    "ageDays": 1,
+    "entropia": 3.91,
+    "score": 95,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "googleapis.com",
+    "label": 1,
+    "ageDays": 7784,
+    "entropia": 3.18,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "ipfs.io",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 2.25,
+    "score": 40,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "inbrowser.link",
+    "label": 1,
+    "ageDays": 819,
+    "entropia": 3.24,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "naa.my.id",
+    "label": 1,
+    "ageDays": 22,
+    "entropia": 2.52,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": null
+  },
+  {
+    "domain": "aukceuu8125.cfd",
+    "label": 1,
+    "ageDays": 1,
+    "entropia": 3.32,
+    "score": 83,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "onlineugyintezes-belepes.com",
+    "label": 1,
+    "ageDays": 1,
+    "entropia": 3.71,
+    "score": 95,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "backblazeb2.com",
+    "label": 1,
+    "ageDays": 3597,
+    "entropia": 3.18,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "nominaapoyo.com",
+    "label": 1,
+    "ageDays": 368,
+    "entropia": 2.81,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "oferta7573403.click",
+    "label": 1,
+    "ageDays": 1,
+    "entropia": 3.84,
+    "score": 95,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "ido986652.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 3.25,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "cadastrobradescopjatt.digital",
+    "label": 1,
+    "ageDays": 29,
+    "entropia": 3.58,
+    "score": 68,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "quickbooks-intuit.click",
+    "label": 1,
+    "ageDays": 28,
+    "entropia": 3.39,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": null
+  },
+  {
+    "domain": "oopo889d0s87.shop",
+    "label": 1,
+    "ageDays": 10,
+    "entropia": 2.95,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": null
+  },
+  {
+    "domain": "01384921634.shop",
+    "label": 1,
+    "ageDays": 4,
+    "entropia": 3.51,
+    "score": 84,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "8301273483231.shop",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 3.26,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "fajnebistro.sk",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 3.55,
+    "score": 68,
+    "nivel": "high",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "743802198x2.cfd",
+    "label": 1,
+    "ageDays": 2,
+    "entropia": 3.52,
+    "score": 84,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "8810h-54.cfd",
+    "label": 1,
+    "ageDays": 2,
+    "entropia": 3.28,
+    "score": 73,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "hi7ekf.casa",
+    "label": 1,
+    "ageDays": 2,
+    "entropia": 3.12,
+    "score": 73,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "oaikcj823012-340.lat",
+    "label": 1,
+    "ageDays": 1,
+    "entropia": 3.83,
+    "score": 95,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "prime-clientsupport.com",
+    "label": 1,
+    "ageDays": 4,
+    "entropia": 3.61,
+    "score": 84,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "instamelink.com",
+    "label": 1,
+    "ageDays": 2,
+    "entropia": 3.38,
+    "score": 73,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "santesupport.com",
+    "label": 1,
+    "ageDays": 2,
+    "entropia": 3.37,
+    "score": 73,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "ofertadodiaml.com",
+    "label": 1,
+    "ageDays": 4,
+    "entropia": 3.33,
+    "score": 73,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "fu8rvt.casa",
+    "label": 1,
+    "ageDays": 2,
+    "entropia": 3.12,
+    "score": 73,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "obnova-predplatneho.com",
+    "label": 1,
+    "ageDays": 4,
+    "entropia": 3.73,
+    "score": 84,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "oferta038598265.lat",
+    "label": 1,
+    "ageDays": 1,
+    "entropia": 3.73,
+    "score": 95,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "crazydomains.com",
+    "label": 1,
+    "ageDays": 8926,
+    "entropia": 3.37,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "framer.website",
+    "label": 1,
+    "ageDays": 1642,
+    "entropia": 3.18,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "framer.wiki",
+    "label": 1,
+    "ageDays": 1642,
+    "entropia": 2.92,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "framer.ai",
+    "label": 1,
+    "ageDays": 3056,
+    "entropia": 2.5,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "duwsml.buzz",
+    "label": 1,
+    "ageDays": 5,
+    "entropia": 2.92,
+    "score": 65,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "4826vpk.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 3.12,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "4812vpk.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 3.12,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "47159208.xyz",
+    "label": 1,
+    "ageDays": 4,
+    "entropia": 3.46,
+    "score": 73,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "4681zpk.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 3.12,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "46280719.xyz",
+    "label": 1,
+    "ageDays": 2,
+    "entropia": 3.46,
+    "score": 73,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "4617zpk.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 3.12,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "4610zpk.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 3.12,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "41nzp6k.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 3.12,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "gthhy.com",
+    "label": 1,
+    "ageDays": 303,
+    "entropia": 2.75,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "eiqylo.com",
+    "label": 1,
+    "ageDays": 327,
+    "entropia": 2.95,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "gjiela.com",
+    "label": 1,
+    "ageDays": 327,
+    "entropia": 3.17,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "41695837.xyz",
+    "label": 1,
+    "ageDays": 2,
+    "entropia": 3.46,
+    "score": 73,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "39175482.xyz",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 3.46,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_404"
+  },
+  {
+    "domain": "35764012.xyz",
+    "label": 1,
+    "ageDays": 3,
+    "entropia": 3.46,
+    "score": 73,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "34617098.xyz",
+    "label": 1,
+    "ageDays": 4,
+    "entropia": 3.46,
+    "score": 73,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "3415xvp.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 3.12,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "3249mwt.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 3.12,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "hbparm.com",
+    "label": 1,
+    "ageDays": 303,
+    "entropia": 2.95,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "jjjzhc.com",
+    "label": 1,
+    "ageDays": 327,
+    "entropia": 2.42,
+    "score": 3,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "3219xvp.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 3.12,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "hbqmwh.com",
+    "label": 1,
+    "ageDays": 303,
+    "entropia": 2.73,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "amazonaws.com",
+    "label": 1,
+    "ageDays": 7580,
+    "entropia": 2.86,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "3215xvp.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 3.12,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "knuzrb.com",
+    "label": 1,
+    "ageDays": 327,
+    "entropia": 3.17,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "pabxdt.com",
+    "label": 1,
+    "ageDays": 301,
+    "entropia": 3.17,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "enusxw.com",
+    "label": 1,
+    "ageDays": 327,
+    "entropia": 3.17,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "pszeg.com",
+    "label": 1,
+    "ageDays": 328,
+    "entropia": 3,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "jouwjw.com",
+    "label": 1,
+    "ageDays": 327,
+    "entropia": 2.5,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "31984576.xyz",
+    "label": 1,
+    "ageDays": 4,
+    "entropia": 3.46,
+    "score": 73,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "nzvri.com",
+    "label": 1,
+    "ageDays": 301,
+    "entropia": 3,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "31469258.xyz",
+    "label": 1,
+    "ageDays": 2,
+    "entropia": 3.46,
+    "score": 73,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "3091vwt.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 3.12,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "3024vwt.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 3.12,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "2847vqn.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 3.32,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "27390581.xyz",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 3.46,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_404"
+  },
+  {
+    "domain": "27384615.xyz",
+    "label": 1,
+    "ageDays": 2,
+    "entropia": 3.46,
+    "score": 73,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "2718vqn.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 3.32,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "2678xwt.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 3.12,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "2583vqm.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 3.32,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "2509vqm.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 3.32,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "24089371.xyz",
+    "label": 1,
+    "ageDays": 3,
+    "entropia": 3.46,
+    "score": 73,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "2306zvn.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 3.32,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "info842287.pro",
+    "label": 1,
+    "ageDays": 2,
+    "entropia": 3.24,
+    "score": 73,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "2168xwt.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 3.12,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "2058vqm.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 3.32,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "20573691.xyz",
+    "label": 1,
+    "ageDays": 4,
+    "entropia": 3.46,
+    "score": 73,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "1985mzn.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 3.32,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "1948mzn.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 3.32,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "1875mvp.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 3.12,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "1850mvp.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 3.12,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "1420zra.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 3.32,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "1365mqk.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 3.32,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "1357mqk.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 3.32,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "13264879.xyz",
+    "label": 1,
+    "ageDays": 3,
+    "entropia": 3.46,
+    "score": 73,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "12693758.xyz",
+    "label": 1,
+    "ageDays": 3,
+    "entropia": 3.46,
+    "score": 73,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "10483927.xyz",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 3.46,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_404"
+  },
+  {
+    "domain": "grv826151.pro",
+    "label": 1,
+    "ageDays": 7,
+    "entropia": 3.25,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": null
+  },
+  {
+    "domain": "hyperphp.com",
+    "label": 1,
+    "ageDays": 7153,
+    "entropia": 2.85,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "rb.gy",
+    "label": 1,
+    "ageDays": 2437,
+    "entropia": 2,
+    "score": 3,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "iaukcj8321920-h345.lat",
+    "label": 1,
+    "ageDays": 2,
+    "entropia": 4.11,
+    "score": 84,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "ido487579.top",
+    "label": 1,
+    "ageDays": 2,
+    "entropia": 3.25,
+    "score": 73,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "com-45295862.cfd",
+    "label": 1,
+    "ageDays": 2,
+    "entropia": 3.51,
+    "score": 84,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "mrwgbp.click",
+    "label": 1,
+    "ageDays": 9,
+    "entropia": 3.28,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": null
+  },
+  {
+    "domain": "pl-384572.shop",
+    "label": 1,
+    "ageDays": 31,
+    "entropia": 3.55,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": null
+  },
+  {
+    "domain": "wfomega.com",
+    "label": 1,
+    "ageDays": 56,
+    "entropia": 2.92,
+    "score": 28,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "redirecte-mah.icu",
+    "label": 1,
+    "ageDays": 57,
+    "entropia": 3.33,
+    "score": 37,
+    "nivel": "moderate",
+    "rdapError": null
+  },
+  {
+    "domain": "konto-aktivieren-dkbgeldanlage.com",
+    "label": 1,
+    "ageDays": 5,
+    "entropia": 3.86,
+    "score": 84,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "isokonsulterna.se",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 3.33,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "harrykohlmann.com",
+    "label": 1,
+    "ageDays": 143,
+    "entropia": 3.25,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "baitalarablaundry.ae",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 3.12,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "dkb-deutschland.com",
+    "label": 1,
+    "ageDays": 9,
+    "entropia": 3.79,
+    "score": 68,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "kinderschuhe-krempe.de",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 3.46,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "ambulace.fr",
+    "label": 1,
+    "ageDays": 7,
+    "entropia": 3.12,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": null
+  },
+  {
+    "domain": "fueguitosdelmoquehue.com",
+    "label": 1,
+    "ageDays": 1367,
+    "entropia": 3.53,
+    "score": 31,
+    "nivel": "moderate",
+    "rdapError": null
+  },
+  {
+    "domain": "ce2661.pro",
+    "label": 1,
+    "ageDays": 7,
+    "entropia": 2.95,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": null
+  },
+  {
+    "domain": "pl-452389.sbs",
+    "label": 1,
+    "ageDays": 119,
+    "entropia": 3.42,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "jasakirimbarang.com",
+    "label": 1,
+    "ageDays": 5832,
+    "entropia": 3.39,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "renewmyplannow.com",
+    "label": 1,
+    "ageDays": 2,
+    "entropia": 3.34,
+    "score": 73,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "adianjing.com",
+    "label": 1,
+    "ageDays": 2245,
+    "entropia": 3.08,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "oferta963254.cfd",
+    "label": 1,
+    "ageDays": 3,
+    "entropia": 3.77,
+    "score": 84,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "amelinksta.com",
+    "label": 1,
+    "ageDays": 2,
+    "entropia": 3.39,
+    "score": 73,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "santes-panel.com",
+    "label": 1,
+    "ageDays": 2,
+    "entropia": 3.37,
+    "score": 73,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "points-shop.quest",
+    "label": 1,
+    "ageDays": 2,
+    "entropia": 3.33,
+    "score": 73,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "points-shop.makeup",
+    "label": 1,
+    "ageDays": 2,
+    "entropia": 3.57,
+    "score": 84,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "brt-it.sbs",
+    "label": 1,
+    "ageDays": 3,
+    "entropia": 2.5,
+    "score": 65,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "secure-domainrenew26.com",
+    "label": 1,
+    "ageDays": 21,
+    "entropia": 3.74,
+    "score": 68,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "goo.su",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 1.92,
+    "score": 40,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "syjved.help",
+    "label": 1,
+    "ageDays": 4,
+    "entropia": 3.12,
+    "score": 73,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "kyvwqz.cc",
+    "label": 1,
+    "ageDays": 6,
+    "entropia": 2.75,
+    "score": 65,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "oqubru.click",
+    "label": 1,
+    "ageDays": 5,
+    "entropia": 3.1,
+    "score": 73,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "relais-expedition.com",
+    "label": 1,
+    "ageDays": 2,
+    "entropia": 3.75,
+    "score": 84,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "qchtg.com",
+    "label": 1,
+    "ageDays": 301,
+    "entropia": 2.75,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "pyrt.pt",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 1.92,
+    "score": 40,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "gruppobper.cfd",
+    "label": 1,
+    "ageDays": 7,
+    "entropia": 3.18,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": null
+  },
+  {
+    "domain": "gruppobper.one",
+    "label": 1,
+    "ageDays": 2,
+    "entropia": 2.87,
+    "score": 65,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "xuesqj.cn",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 3,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "wvx.my.id",
+    "label": 1,
+    "ageDays": 17,
+    "entropia": 2.81,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": null
+  },
+  {
+    "domain": "849102g90o.cyou",
+    "label": 1,
+    "ageDays": 2,
+    "entropia": 3.38,
+    "score": 73,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "smart239124039.cfd",
+    "label": 1,
+    "ageDays": 4,
+    "entropia": 3.73,
+    "score": 84,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "9017348916743.lat",
+    "label": 1,
+    "ageDays": 2,
+    "entropia": 3.38,
+    "score": 73,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "prywan5238729h-45.lat",
+    "label": 1,
+    "ageDays": 2,
+    "entropia": 4.02,
+    "score": 84,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "ofert34592512-509.lat",
+    "label": 1,
+    "ageDays": 5,
+    "entropia": 3.78,
+    "score": 84,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "smart039120.lat",
+    "label": 1,
+    "ageDays": 4,
+    "entropia": 3.38,
+    "score": 73,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "duckdns.org",
+    "label": 1,
+    "ageDays": 4785,
+    "entropia": 3.12,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "pl-oferta937573.click",
+    "label": 1,
+    "ageDays": 46,
+    "entropia": 3.92,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": null
+  },
+  {
+    "domain": "pl-oferta63752791.click",
+    "label": 1,
+    "ageDays": 75,
+    "entropia": 4.19,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": null
+  },
+  {
+    "domain": "gift-stean.shop",
+    "label": 1,
+    "ageDays": 6,
+    "entropia": 3.52,
+    "score": 84,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "zya.me",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 2.32,
+    "score": 40,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "replit.app",
+    "label": 1,
+    "ageDays": 1859,
+    "entropia": 2.64,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "wbwueae.cn",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 2.73,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "hdgfzkr.cn",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 3.17,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "xnlscku.cn",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 2.73,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "dqcyszq.cn",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 2.73,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "jeffreystearns.shop",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 3.42,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "aqvgnzr.cn",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 2.95,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "hpvtwnt.cn",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 2.73,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "925389h451.shop",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 3.38,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "vsemiralbom.cyou",
+    "label": 1,
+    "ageDays": 299,
+    "entropia": 3.64,
+    "score": 31,
+    "nivel": "moderate",
+    "rdapError": null
+  },
+  {
+    "domain": "ksfheb.shop",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 2.92,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "created.app",
+    "label": 1,
+    "ageDays": 1043,
+    "entropia": 2.72,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "netf1lix-pago.com",
+    "label": 1,
+    "ageDays": 42,
+    "entropia": 3.88,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": null
+  },
+  {
+    "domain": "resolvfi.one",
+    "label": 1,
+    "ageDays": 152,
+    "entropia": 3.1,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "egmtransportes.cl",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 3.5,
+    "score": 68,
+    "nivel": "high",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "aukcj82180-43h4.shop",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 3.93,
+    "score": 68,
+    "nivel": "high",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "samsunaritmaservisi.com",
+    "label": 1,
+    "ageDays": 1233,
+    "entropia": 3.36,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "ondigitalocean.app",
+    "label": 1,
+    "ageDays": 2178,
+    "entropia": 3.34,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "beersmans.be",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 2.66,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "fi-delitby.cyou",
+    "label": 1,
+    "ageDays": 5,
+    "entropia": 3.52,
+    "score": 84,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "mylusmedya.com",
+    "label": 1,
+    "ageDays": 232,
+    "entropia": 3.18,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "platxe.shop",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 3.12,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "botticelliri.com",
+    "label": 1,
+    "ageDays": 8151,
+    "entropia": 3.06,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "dpde.lat",
+    "label": 1,
+    "ageDays": 5,
+    "entropia": 2.52,
+    "score": 65,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "jagdambamobiles.com",
+    "label": 1,
+    "ageDays": 1765,
+    "entropia": 3.42,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "ricardo-kauf.ch",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 3.38,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "ch-postl.com",
+    "label": 1,
+    "ageDays": 3,
+    "entropia": 3.1,
+    "score": 73,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "re-netlfix.com",
+    "label": 1,
+    "ageDays": 4,
+    "entropia": 3.55,
+    "score": 84,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "dweb.link",
+    "label": 1,
+    "ageDays": 3372,
+    "entropia": 3,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "govsi.work",
+    "label": 1,
+    "ageDays": 4,
+    "entropia": 2.95,
+    "score": 65,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "govsi.buzz",
+    "label": 1,
+    "ageDays": 4,
+    "entropia": 2.95,
+    "score": 65,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "b8no2fhz.shop",
+    "label": 1,
+    "ageDays": 351,
+    "entropia": 3.25,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "dpdlocoyh.top",
+    "label": 1,
+    "ageDays": 4,
+    "entropia": 2.86,
+    "score": 65,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "surl.li",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 2.25,
+    "score": 40,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "zpr.io",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 2.32,
+    "score": 40,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "roblox.et",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 2.75,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "cleanhaven.de",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 2.86,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "qrco.de",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 2.58,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "google.com",
+    "label": 1,
+    "ageDays": 10474,
+    "entropia": 2.42,
+    "score": 3,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "qr-codes.io",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 3.12,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "wl.co",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 2,
+    "score": 40,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "ddfjh457uerdgdfj54edfs.com",
+    "label": 1,
+    "ageDays": 3,
+    "entropia": 3.67,
+    "score": 84,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "euleio.com.br",
+    "label": 1,
+    "ageDays": 5693,
+    "entropia": 3.1,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "dpdlocoyx.top",
+    "label": 1,
+    "ageDays": 4,
+    "entropia": 2.86,
+    "score": 65,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "dpdlocoyl.top",
+    "label": 1,
+    "ageDays": 4,
+    "entropia": 2.69,
+    "score": 65,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "dpdlocotk.top",
+    "label": 1,
+    "ageDays": 5,
+    "entropia": 2.69,
+    "score": 65,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "dpdlocoyi.top",
+    "label": 1,
+    "ageDays": 4,
+    "entropia": 2.86,
+    "score": 65,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "dpdlocoyg.top",
+    "label": 1,
+    "ageDays": 4,
+    "entropia": 2.86,
+    "score": 65,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "dpdlocoyt.top",
+    "label": 1,
+    "ageDays": 5,
+    "entropia": 2.69,
+    "score": 65,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "dpdlocoyo.top",
+    "label": 1,
+    "ageDays": 4,
+    "entropia": 2.58,
+    "score": 65,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "dpdlocore.top",
+    "label": 1,
+    "ageDays": 5,
+    "entropia": 2.86,
+    "score": 65,
+    "nivel": "high",
+    "rdapError": null
+  },
+  {
+    "domain": "dpdlocoyd.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 2.63,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "dpdlocoyw.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 2.86,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "dpdlocoyz.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 2.86,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "dpdlocoyu.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 2.86,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "dpdlocoyq.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 2.86,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "dpdlocoyj.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 2.86,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "dpdlocoye.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 2.86,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "dpdlocout.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 2.69,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "dpdlocoyb.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 2.86,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "dpdlocouo.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 2.58,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "dpdlocoui.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 2.86,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "dpdlocoyv.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 2.86,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "dpdlocoys.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 2.86,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "dpdlocoyr.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 2.86,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "dpdlocotw.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 2.69,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "dpdlocoyp.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 2.63,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "dpdlocoym.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 2.86,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "dpdlocotu.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 2.69,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "dpdlocots.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 2.69,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "dpdlocoww.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 2.69,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "dpdlocowz.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 2.86,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "dpdlocoyk.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 2.86,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "dpdlocoro.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 2.58,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "dpdlocouw.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 2.86,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "dpdlocoyc.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 2.69,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "dpdlocotj.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 2.69,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "dpdlocoyf.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 2.86,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "dpdlocouq.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 2.86,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "dpdlocouf.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 2.86,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "dpdlocoub.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 2.86,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "dpdlocoua.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 2.86,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "dpdlocoty.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 2.69,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "dpdlocott.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 2.46,
+    "score": 40,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "dpdlocouy.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 2.86,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "dpdlocoux.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 2.86,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "dpdlocotp.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 2.46,
+    "score": 40,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "dpdlocoth.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 2.69,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "dpdlocoum.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 2.86,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "dpdlocowp.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 2.63,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "dpdlocouj.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 2.86,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "dpdlocouk.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 2.86,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "dpdlocowf.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 2.86,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "dpdlocoud.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 2.63,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "dpdlocotl.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 2.52,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "dpdlocotr.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 2.69,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "dpdlocouz.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 2.86,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "dpdlocotm.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 2.69,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "dpdlocoti.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 2.69,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "dpdlocouv.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 2.86,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "dpdlocouu.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 2.69,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "dpdlocous.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 2.86,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "dpdlocotf.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 2.69,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "dpdlocoqv.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 2.86,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "dpdlocour.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 2.86,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "dpdlocoqq.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 2.69,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "dpdlocota.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 2.69,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "dpdlocoqp.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 2.63,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "dpdlocoup.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 2.63,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "dpdlocoun.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 2.86,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "dpdlocoul.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 2.69,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "dpdlocoug.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 2.86,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "dpdlocouh.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 2.86,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "dpdlocouc.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 2.69,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "dpdlocorx.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 2.86,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "dpdlocorl.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 2.69,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "dpdlocotn.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 2.69,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "dpdlocoto.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 2.42,
+    "score": 40,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "dpdlocotg.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 2.69,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "dpdlocorh.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 2.86,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "dpdlocote.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 2.69,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "dpdlocotd.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 2.46,
+    "score": 40,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "dpdlocorc.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 2.69,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "dpdlocotb.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 2.69,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "dpdlocorz.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 2.86,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "dpdlocoiw.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 2.86,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "dpdlocory.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 2.86,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "dpdlocort.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 2.69,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "dpdlocorv.top",
+    "label": 1,
+    "ageDays": null,
+    "entropia": 2.86,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_429"
+  },
+  {
+    "domain": "orderbox-dns.com",
+    "label": 0,
+    "ageDays": 7992,
+    "entropia": 3.32,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "quizlet.com",
+    "label": 0,
+    "ageDays": 7978,
+    "entropia": 3.32,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "deepseek.com",
+    "label": 0,
+    "ageDays": 9411,
+    "entropia": 2.73,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "ipify.org",
+    "label": 0,
+    "ageDays": 4517,
+    "entropia": 2.75,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "faphouse.com",
+    "label": 0,
+    "ageDays": 1860,
+    "entropia": 3.28,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "columbia.edu",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 3.28,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "pvp.net",
+    "label": 0,
+    "ageDays": 9980,
+    "entropia": 2.25,
+    "score": 3,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "bol.com",
+    "label": 0,
+    "ageDays": 10379,
+    "entropia": 2.25,
+    "score": 3,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "samsungcloudsolution.net",
+    "label": 0,
+    "ageDays": 5691,
+    "entropia": 3.52,
+    "score": 31,
+    "nivel": "moderate",
+    "rdapError": null
+  },
+  {
+    "domain": "odoo.com",
+    "label": 0,
+    "ageDays": 9245,
+    "entropia": 1.66,
+    "score": 3,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "irs.gov",
+    "label": 0,
+    "ageDays": 10457,
+    "entropia": 2.58,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "tagesschau.de",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 3.08,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "youronlinechoices.com",
+    "label": 0,
+    "ageDays": 6297,
+    "entropia": 3.38,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "ancestry.com",
+    "label": 0,
+    "ageDays": 11327,
+    "entropia": 3.28,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "ecosia.org",
+    "label": 0,
+    "ageDays": 6071,
+    "entropia": 2.95,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "ovscdns.net",
+    "label": 0,
+    "ageDays": 3320,
+    "entropia": 2.92,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "kwcdn.com",
+    "label": 0,
+    "ageDays": 1380,
+    "entropia": 2.75,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "infobae.com",
+    "label": 0,
+    "ageDays": 8810,
+    "entropia": 3.12,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "vercel-dns-016.com",
+    "label": 0,
+    "ageDays": 473,
+    "entropia": 3.73,
+    "score": 31,
+    "nivel": "moderate",
+    "rdapError": null
+  },
+  {
+    "domain": "perplexity.ai",
+    "label": 0,
+    "ageDays": 1411,
+    "entropia": 3.08,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "tiktokpangle.us",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 3.52,
+    "score": 68,
+    "nivel": "high",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "heytapmobi.com",
+    "label": 0,
+    "ageDays": 2506,
+    "entropia": 3.39,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "flipkart.com",
+    "label": 0,
+    "ageDays": 6925,
+    "entropia": 3.46,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "parklogic.com",
+    "label": 0,
+    "ageDays": 7020,
+    "entropia": 3.25,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "xing.com",
+    "label": 0,
+    "ageDays": 12321,
+    "entropia": 2.81,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "giex.ru",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 2.58,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "gtm-a2b2.com",
+    "label": 0,
+    "ageDays": 2837,
+    "entropia": 3.1,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "huffpost.com",
+    "label": 0,
+    "ageDays": 7740,
+    "entropia": 3.1,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "docomo.ne.jp",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 2.85,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "ubi.com",
+    "label": 0,
+    "ageDays": 10164,
+    "entropia": 2.58,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "rbc.ru",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 1.92,
+    "score": 40,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "nextcloud.com",
+    "label": 0,
+    "ageDays": 7757,
+    "entropia": 3.25,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "btloader.com",
+    "label": 0,
+    "ageDays": 2051,
+    "entropia": 3.28,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "leparisien.fr",
+    "label": 0,
+    "ageDays": 6308,
+    "entropia": 3.08,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "yximgs.com",
+    "label": 0,
+    "ageDays": 5144,
+    "entropia": 2.95,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "bidmachine.io",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 3.19,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "olx.com.br",
+    "label": 0,
+    "ageDays": 7292,
+    "entropia": 2.75,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "app-analytics-services-att.com",
+    "label": 0,
+    "ageDays": 880,
+    "entropia": 3.72,
+    "score": 31,
+    "nivel": "moderate",
+    "rdapError": null
+  },
+  {
+    "domain": "redfin.com",
+    "label": 0,
+    "ageDays": 9514,
+    "entropia": 3.17,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "ameba.jp",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 2.52,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "xhcdn.com",
+    "label": 0,
+    "ageDays": 5508,
+    "entropia": 2.75,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "websitewelcome.com",
+    "label": 0,
+    "ageDays": 8400,
+    "entropia": 3.15,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "coursera.org",
+    "label": 0,
+    "ageDays": 5242,
+    "entropia": 2.85,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "marca.com",
+    "label": 0,
+    "ageDays": 10661,
+    "entropia": 2.25,
+    "score": 3,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "terra.com.br",
+    "label": 0,
+    "ageDays": 10032,
+    "entropia": 2.85,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "as.com",
+    "label": 0,
+    "ageDays": 10394,
+    "entropia": 2.32,
+    "score": 3,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "amazon.com.mx",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 2.66,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "moneycontrol.com",
+    "label": 0,
+    "ageDays": 9943,
+    "entropia": 2.97,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "adblockplus.org",
+    "label": 0,
+    "ageDays": 7284,
+    "entropia": 3.52,
+    "score": 31,
+    "nivel": "moderate",
+    "rdapError": null
+  },
+  {
+    "domain": "tesla.com",
+    "label": 0,
+    "ageDays": 12250,
+    "entropia": 3,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "webhostbox.net",
+    "label": 0,
+    "ageDays": 5941,
+    "entropia": 3.09,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "webempresa.eu",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 2.92,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "ouest-france.fr",
+    "label": 0,
+    "ageDays": 10620,
+    "entropia": 3.38,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "amemv.com",
+    "label": 0,
+    "ageDays": 3554,
+    "entropia": 2.41,
+    "score": 3,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "ox.ac.uk",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 2.58,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_404"
+  },
+  {
+    "domain": "privacy-mgmt.com",
+    "label": 0,
+    "ageDays": 2188,
+    "entropia": 3.46,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "letterboxd.com",
+    "label": 0,
+    "ageDays": 6344,
+    "entropia": 3.24,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "cbc.ca",
+    "label": 0,
+    "ageDays": 9346,
+    "entropia": 1.37,
+    "score": 3,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "crazygames.com",
+    "label": 0,
+    "ageDays": 8032,
+    "entropia": 3.24,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "footprintdns.com",
+    "label": 0,
+    "ageDays": 4332,
+    "entropia": 3.32,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "trendyol.com",
+    "label": 0,
+    "ageDays": 6069,
+    "entropia": 3.28,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "notion.so",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 2.16,
+    "score": 40,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "bfmtv.com",
+    "label": 0,
+    "ageDays": 7855,
+    "entropia": 2.75,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "yandex.kz",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 3,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "cdek.ru",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 2.58,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "n-tv.de",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 2.58,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "hilton.com",
+    "label": 0,
+    "ageDays": 11501,
+    "entropia": 2.95,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "alphonso.tv",
+    "label": 0,
+    "ageDays": 4978,
+    "entropia": 3.12,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "oecd.org",
+    "label": 0,
+    "ageDays": 11481,
+    "entropia": 2.52,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "ilovepdf.com",
+    "label": 0,
+    "ageDays": 5998,
+    "entropia": 3.28,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "goal.com",
+    "label": 0,
+    "ageDays": 11355,
+    "entropia": 2.52,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "dribbble.com",
+    "label": 0,
+    "ageDays": 6635,
+    "entropia": 3.03,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "eporner.com",
+    "label": 0,
+    "ageDays": 6615,
+    "entropia": 2.72,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "i18n-pglstatp.com",
+    "label": 0,
+    "ageDays": 2113,
+    "entropia": 3.75,
+    "score": 31,
+    "nivel": "moderate",
+    "rdapError": null
+  },
+  {
+    "domain": "tendawifi.com",
+    "label": 0,
+    "ageDays": 4528,
+    "entropia": 3.42,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "xhamster.desi",
+    "label": 0,
+    "ageDays": 3469,
+    "entropia": 3.25,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "nexthink.cloud",
+    "label": 0,
+    "ageDays": 2809,
+    "entropia": 3.55,
+    "score": 31,
+    "nivel": "moderate",
+    "rdapError": null
+  },
+  {
+    "domain": "economist.com",
+    "label": 0,
+    "ageDays": 11496,
+    "entropia": 2.86,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "lwsdns.com",
+    "label": 0,
+    "ageDays": 7074,
+    "entropia": 2.95,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "garmin.com",
+    "label": 0,
+    "ageDays": 11341,
+    "entropia": 2.95,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "mythad.com",
+    "label": 0,
+    "ageDays": 1939,
+    "entropia": 2.95,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "incapdns.net",
+    "label": 0,
+    "ageDays": 5773,
+    "entropia": 3.03,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "gsmarena.com",
+    "label": 0,
+    "ageDays": 9469,
+    "entropia": 3.1,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "fortune.com",
+    "label": 0,
+    "ageDays": 11675,
+    "entropia": 3.12,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "archiveofourown.org",
+    "label": 0,
+    "ageDays": 6929,
+    "entropia": 3.46,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "yomiuri.co.jp",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 3.1,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "inkuai.com",
+    "label": 0,
+    "ageDays": 4186,
+    "entropia": 2.95,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "finn.no",
+    "label": 0,
+    "ageDays": 9683,
+    "entropia": 1.79,
+    "score": 3,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "statcounter.com",
+    "label": 0,
+    "ageDays": 9631,
+    "entropia": 3.18,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "lge.com",
+    "label": 0,
+    "ageDays": 11452,
+    "entropia": 2.58,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "apa.org",
+    "label": 0,
+    "ageDays": 12256,
+    "entropia": 2.25,
+    "score": 3,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "1c.ru",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 2,
+    "score": 40,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "1drv.com",
+    "label": 0,
+    "ageDays": 4670,
+    "entropia": 2.81,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "rayjump.com",
+    "label": 0,
+    "ageDays": 4639,
+    "entropia": 3.12,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "google.ca",
+    "label": 0,
+    "ageDays": 9359,
+    "entropia": 2.5,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "wise.com",
+    "label": 0,
+    "ageDays": 11762,
+    "entropia": 2.81,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "tabelog.com",
+    "label": 0,
+    "ageDays": 7783,
+    "entropia": 3.12,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "tnaflix.com",
+    "label": 0,
+    "ageDays": 7031,
+    "entropia": 3.32,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "dnse0.com",
+    "label": 0,
+    "ageDays": 1412,
+    "entropia": 3,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "idnes.cz",
+    "label": 0,
+    "ageDays": 10398,
+    "entropia": 2.81,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "usercentrics.eu",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 2.9,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "franceinfo.fr",
+    "label": 0,
+    "ageDays": 9288,
+    "entropia": 2.86,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "megafon.ru",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 3.17,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "xhscdn.com",
+    "label": 0,
+    "ageDays": 3919,
+    "entropia": 2.95,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "signal.org",
+    "label": 0,
+    "ageDays": 9166,
+    "entropia": 2.95,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "skysports.com",
+    "label": 0,
+    "ageDays": 10206,
+    "entropia": 3.02,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "byteoversea.com",
+    "label": 0,
+    "ageDays": 3164,
+    "entropia": 3.32,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "plos.org",
+    "label": 0,
+    "ageDays": 9360,
+    "entropia": 2.52,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "sahibinden.com",
+    "label": 0,
+    "ageDays": 9638,
+    "entropia": 3.39,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "samsungcloud.tv",
+    "label": 0,
+    "ageDays": 3297,
+    "entropia": 3.52,
+    "score": 31,
+    "nivel": "moderate",
+    "rdapError": null
+  },
+  {
+    "domain": "olx.pl",
+    "label": 0,
+    "ageDays": 7130,
+    "entropia": 1.92,
+    "score": 3,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "espncricinfo.com",
+    "label": 0,
+    "ageDays": 7012,
+    "entropia": 3.19,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "viasat.io",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 2.5,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "ultimate-guitar.com",
+    "label": 0,
+    "ageDays": 9715,
+    "entropia": 3.46,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "riotgames.com",
+    "label": 0,
+    "ageDays": 7859,
+    "entropia": 3.25,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "sportradar.com",
+    "label": 0,
+    "ageDays": 10064,
+    "entropia": 3.03,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "stbid.ru",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 2.81,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "rtbcdn.ru",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 2.75,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "upenn.edu",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 2.25,
+    "score": 40,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "psychologytoday.com",
+    "label": 0,
+    "ageDays": 10369,
+    "entropia": 3.35,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "lichess.org",
+    "label": 0,
+    "ageDays": 5819,
+    "entropia": 3.12,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "huffingtonpost.com",
+    "label": 0,
+    "ageDays": 7740,
+    "entropia": 3.45,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "hltv.org",
+    "label": 0,
+    "ageDays": 8804,
+    "entropia": 2.81,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "gofundme.com",
+    "label": 0,
+    "ageDays": 5962,
+    "entropia": 3.1,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "hugedomains.com",
+    "label": 0,
+    "ageDays": 8236,
+    "entropia": 3.52,
+    "score": 31,
+    "nivel": "moderate",
+    "rdapError": null
+  },
+  {
+    "domain": "onedrive.com",
+    "label": 0,
+    "ageDays": 10208,
+    "entropia": 3.1,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "bet365.com",
+    "label": 0,
+    "ageDays": 9786,
+    "entropia": 3.17,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "vivo.com",
+    "label": 0,
+    "ageDays": 10270,
+    "entropia": 2.24,
+    "score": 3,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "hostinger.com",
+    "label": 0,
+    "ageDays": 8579,
+    "entropia": 3.42,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "stratoserver.net",
+    "label": 0,
+    "ageDays": 7095,
+    "entropia": 2.82,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "stackexchange.com",
+    "label": 0,
+    "ageDays": 6185,
+    "entropia": 3.45,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "company-target.com",
+    "label": 0,
+    "ageDays": 5034,
+    "entropia": 3.5,
+    "score": 31,
+    "nivel": "moderate",
+    "rdapError": null
+  },
+  {
+    "domain": "mercadolibre.com.mx",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 3.34,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "jstor.org",
+    "label": 0,
+    "ageDays": 11051,
+    "entropia": 2.5,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "clarin.com",
+    "label": 0,
+    "ageDays": 11235,
+    "entropia": 2.95,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "lanacion.com.ar",
+    "label": 0,
+    "ageDays": 11097,
+    "entropia": 2.87,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "leboncoin.fr",
+    "label": 0,
+    "ageDays": 7064,
+    "entropia": 3.1,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "ad-delivery.net",
+    "label": 0,
+    "ageDays": 3303,
+    "entropia": 3.32,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "yale.edu",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 2.52,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "cspserver.net",
+    "label": 0,
+    "ageDays": 4544,
+    "entropia": 2.86,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "paramountplus.com",
+    "label": 0,
+    "ageDays": 5250,
+    "entropia": 3.38,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "spamhaus.org",
+    "label": 0,
+    "ageDays": 9727,
+    "entropia": 3.1,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "susercontent.com",
+    "label": 0,
+    "ageDays": 1402,
+    "entropia": 3.11,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "redd.it",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 2.25,
+    "score": 40,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "gismeteo.ru",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 3.12,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "meethue.com",
+    "label": 0,
+    "ageDays": 5108,
+    "entropia": 2.65,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "contentsquare.net",
+    "label": 0,
+    "ageDays": 3379,
+    "entropia": 3.11,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "tubi.io",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 2.25,
+    "score": 40,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "xhamster2.com",
+    "label": 0,
+    "ageDays": 2853,
+    "entropia": 3.42,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "medallia.com",
+    "label": 0,
+    "ageDays": 9456,
+    "entropia": 2.91,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "share-dns.com",
+    "label": 0,
+    "ageDays": 1420,
+    "entropia": 3.42,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "dafont.com",
+    "label": 0,
+    "ageDays": 9347,
+    "entropia": 2.95,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "skroutz.gr",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 2.95,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "psu.edu",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 2.25,
+    "score": 40,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "amd.com",
+    "label": 0,
+    "ageDays": 14429,
+    "entropia": 2.25,
+    "score": 3,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "flashscore.com",
+    "label": 0,
+    "ageDays": 8661,
+    "entropia": 3.24,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "wordwall.net",
+    "label": 0,
+    "ageDays": 3951,
+    "entropia": 3.1,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "ttlivecdn.com",
+    "label": 0,
+    "ageDays": 1767,
+    "entropia": 3.25,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "aftonbladet.se",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 3.24,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "vg.no",
+    "label": 0,
+    "ageDays": 5458,
+    "entropia": 2,
+    "score": 3,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "maricopa.gov",
+    "label": 0,
+    "ageDays": 10457,
+    "entropia": 3.1,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "superhosting.bg",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 3.52,
+    "score": 68,
+    "nivel": "high",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "cricbuzz.com",
+    "label": 0,
+    "ageDays": 8069,
+    "entropia": 2.85,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "jw.org",
+    "label": 0,
+    "ageDays": 9937,
+    "entropia": 2.32,
+    "score": 3,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "pandora.com",
+    "label": 0,
+    "ageDays": 11831,
+    "entropia": 2.92,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "makemytrip.com",
+    "label": 0,
+    "ageDays": 9507,
+    "entropia": 3.33,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "attn.tv",
+    "label": 0,
+    "ageDays": 3326,
+    "entropia": 1.79,
+    "score": 3,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "cookpad.com",
+    "label": 0,
+    "ageDays": 9900,
+    "entropia": 2.65,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "edna.ru",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 2.58,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "elconfidencial.com",
+    "label": 0,
+    "ageDays": 9373,
+    "entropia": 3.22,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "kicker.de",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 2.5,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "namu.wiki",
+    "label": 0,
+    "ageDays": 4056,
+    "entropia": 2.75,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "sectigo.com",
+    "label": 0,
+    "ageDays": 2833,
+    "entropia": 2.92,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "dmm.co.jp",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 2.52,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "rule34.xxx",
+    "label": 0,
+    "ageDays": 5235,
+    "entropia": 2.64,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "tbs.co.jp",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 2.81,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "kaspi.kz",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 2.52,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "xhamster45.desi",
+    "label": 0,
+    "ageDays": 1570,
+    "entropia": 3.52,
+    "score": 31,
+    "nivel": "moderate",
+    "rdapError": null
+  },
+  {
+    "domain": "vnexpress.net",
+    "label": 0,
+    "ageDays": 9408,
+    "entropia": 2.86,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "spankbang.com",
+    "label": 0,
+    "ageDays": 5569,
+    "entropia": 3.25,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "itmedia.co.jp",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 3.28,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "nu.nl",
+    "label": 0,
+    "ageDays": 10220,
+    "entropia": 1.5,
+    "score": 3,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "phncdn.com",
+    "label": 0,
+    "ageDays": 6004,
+    "entropia": 2.73,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "msauth.net",
+    "label": 0,
+    "ageDays": 2763,
+    "entropia": 2.95,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "flightradar24.com",
+    "label": 0,
+    "ageDays": 6034,
+    "entropia": 3.75,
+    "score": 31,
+    "nivel": "moderate",
+    "rdapError": null
+  },
+  {
+    "domain": "indiamart.com",
+    "label": 0,
+    "ageDays": 11030,
+    "entropia": 3.08,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "service-now.com",
+    "label": 0,
+    "ageDays": 9086,
+    "entropia": 3.38,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "ad.nl",
+    "label": 0,
+    "ageDays": 11187,
+    "entropia": 2,
+    "score": 3,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "trello.com",
+    "label": 0,
+    "ageDays": 7942,
+    "entropia": 2.73,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "dhl.com",
+    "label": 0,
+    "ageDays": 13509,
+    "entropia": 2.58,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "mybluehost.me",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 3.25,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "janitorai.com",
+    "label": 0,
+    "ageDays": 1085,
+    "entropia": 3.08,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "grok.com",
+    "label": 0,
+    "ageDays": 11689,
+    "entropia": 2.52,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "biomedcentral.com",
+    "label": 0,
+    "ageDays": 9784,
+    "entropia": 3.5,
+    "score": 31,
+    "nivel": "moderate",
+    "rdapError": null
+  },
+  {
+    "domain": "xhamster19.com",
+    "label": 0,
+    "ageDays": 2363,
+    "entropia": 3.55,
+    "score": 31,
+    "nivel": "moderate",
+    "rdapError": null
+  },
+  {
+    "domain": "nelreports.net",
+    "label": 0,
+    "ageDays": 2609,
+    "entropia": 2.87,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "dcinside.com",
+    "label": 0,
+    "ageDays": 9528,
+    "entropia": 2.91,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "boyfriendtv.com",
+    "label": 0,
+    "ageDays": 5808,
+    "entropia": 3.66,
+    "score": 31,
+    "nivel": "moderate",
+    "rdapError": null
+  },
+  {
+    "domain": "lequipe.fr",
+    "label": 0,
+    "ageDays": 10425,
+    "entropia": 2.95,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "adaether.com",
+    "label": 0,
+    "ageDays": 1939,
+    "entropia": 3.1,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "furaffinity.net",
+    "label": 0,
+    "ageDays": 7794,
+    "entropia": 3.04,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "bilibili.tv",
+    "label": 0,
+    "ageDays": 5808,
+    "entropia": 2.12,
+    "score": 3,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "azure-api.net",
+    "label": 0,
+    "ageDays": 4513,
+    "entropia": 3.25,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "tradplusad.com",
+    "label": 0,
+    "ageDays": 1993,
+    "entropia": 3.39,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "warnerbros.com",
+    "label": 0,
+    "ageDays": 11261,
+    "entropia": 3.18,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "bitdefender.net",
+    "label": 0,
+    "ageDays": 6394,
+    "entropia": 2.81,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "easy4ipcloud.com",
+    "label": 0,
+    "ageDays": 4453,
+    "entropia": 3.64,
+    "score": 31,
+    "nivel": "moderate",
+    "rdapError": null
+  },
+  {
+    "domain": "rightmove.co.uk",
+    "label": 0,
+    "ageDays": 9751,
+    "entropia": 3.55,
+    "score": 31,
+    "nivel": "moderate",
+    "rdapError": null
+  },
+  {
+    "domain": "xhamster1.desi",
+    "label": 0,
+    "ageDays": 2363,
+    "entropia": 3.39,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "acesso.gov.br",
+    "label": 0,
+    "ageDays": 2734,
+    "entropia": 3.1,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "tinkoff.ru",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 2.95,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "alipay.com",
+    "label": 0,
+    "ageDays": 7894,
+    "entropia": 2.95,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "hotpepper.jp",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 2.55,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "wowhead.com",
+    "label": 0,
+    "ageDays": 7460,
+    "entropia": 2.92,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "vinted.fr",
+    "label": 0,
+    "ageDays": 4871,
+    "entropia": 3,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "meesho.com",
+    "label": 0,
+    "ageDays": 3868,
+    "entropia": 2.5,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "xhopen.com",
+    "label": 0,
+    "ageDays": 2121,
+    "entropia": 2.95,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "blooket.com",
+    "label": 0,
+    "ageDays": 2757,
+    "entropia": 2.85,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "xhaccess.com",
+    "label": 0,
+    "ageDays": 2013,
+    "entropia": 2.85,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "sentinelone.net",
+    "label": 0,
+    "ageDays": 4369,
+    "entropia": 2.52,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "remove.bg",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 2.75,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "hurriyet.com.tr",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 3.18,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "ynet.co.il",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 3,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "epicgames.dev",
+    "label": 0,
+    "ageDays": 2637,
+    "entropia": 3.19,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "t-bank-app.ru",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 3.08,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "rustdesk.com",
+    "label": 0,
+    "ageDays": 2148,
+    "entropia": 3.28,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "marktplaats.nl",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 3.03,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "This operation was aborted"
+  },
+  {
+    "domain": "macys.com",
+    "label": 0,
+    "ageDays": 11790,
+    "entropia": 2.5,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "gazzetta.it",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 2.45,
+    "score": 40,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "fb.me",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 2,
+    "score": 40,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "nsone.net",
+    "label": 0,
+    "ageDays": 5167,
+    "entropia": 2.16,
+    "score": 3,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "zalando.de",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 2.73,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "donga.com",
+    "label": 0,
+    "ageDays": 11012,
+    "entropia": 2.75,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "hstgr.net",
+    "label": 0,
+    "ageDays": 1250,
+    "entropia": 2.75,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "livescore.com",
+    "label": 0,
+    "ageDays": 10171,
+    "entropia": 3.08,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "vscode-cdn.net",
+    "label": 0,
+    "ageDays": 1524,
+    "entropia": 3.09,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "newsweek.com",
+    "label": 0,
+    "ageDays": 11691,
+    "entropia": 2.85,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "tabor.ru",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 2.52,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "google.co.jp",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 2.65,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "youporn.com",
+    "label": 0,
+    "ageDays": 7473,
+    "entropia": 2.85,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "idealista.com",
+    "label": 0,
+    "ageDays": 9768,
+    "entropia": 3.25,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "icanhazip.com",
+    "label": 0,
+    "ageDays": 6137,
+    "entropia": 3.08,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "letsencrypt.org",
+    "label": 0,
+    "ageDays": 4334,
+    "entropia": 3.38,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "argos.co.uk",
+    "label": 0,
+    "ageDays": 11273,
+    "entropia": 2.95,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "businesswire.com",
+    "label": 0,
+    "ageDays": 11063,
+    "entropia": 3.32,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "usnews.com",
+    "label": 0,
+    "ageDays": 11443,
+    "entropia": 2.95,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "poste.it",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 2.52,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "cnnbrasil.com.br",
+    "label": 0,
+    "ageDays": 8642,
+    "entropia": 3.24,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "zdnscloud.com",
+    "label": 0,
+    "ageDays": 5759,
+    "entropia": 3.08,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "he.net",
+    "label": 0,
+    "ageDays": 11251,
+    "entropia": 1.92,
+    "score": 3,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "fetlife.com",
+    "label": 0,
+    "ageDays": 6714,
+    "entropia": 2.92,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "volcgslb.com",
+    "label": 0,
+    "ageDays": 1854,
+    "entropia": 2.91,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "wayground.com",
+    "label": 0,
+    "ageDays": 2552,
+    "entropia": 3.42,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "bmj.com",
+    "label": 0,
+    "ageDays": 11407,
+    "entropia": 2.25,
+    "score": 3,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "buzzfeed.com",
+    "label": 0,
+    "ageDays": 8686,
+    "entropia": 3.1,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "bund.de",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 2.25,
+    "score": 40,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "fanfiction.net",
+    "label": 0,
+    "ageDays": 10106,
+    "entropia": 2.87,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "fc2.com",
+    "label": 0,
+    "ageDays": 9862,
+    "entropia": 2.25,
+    "score": 3,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "sapo.pt",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 2.25,
+    "score": 40,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "umn.edu",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 2.25,
+    "score": 40,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "xiaohongshu.com",
+    "label": 0,
+    "ageDays": 5290,
+    "entropia": 3.32,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "litnet.com",
+    "label": 0,
+    "ageDays": 9479,
+    "entropia": 2.95,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "livedoor.com",
+    "label": 0,
+    "ageDays": 9728,
+    "entropia": 3.03,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "hln.be",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 2.32,
+    "score": 40,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "siemens.com",
+    "label": 0,
+    "ageDays": 14478,
+    "entropia": 2.72,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "netlify.app",
+    "label": 0,
+    "ageDays": 2933,
+    "entropia": 3.12,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "merkur.de",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 2.5,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "myntra.com",
+    "label": 0,
+    "ageDays": 7097,
+    "entropia": 2.95,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "pornpics.com",
+    "label": 0,
+    "ageDays": 11004,
+    "entropia": 2.91,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "ebay.it",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 2.58,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "googleapis.cn",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 3.25,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "wshifen.com",
+    "label": 0,
+    "ageDays": 5040,
+    "entropia": 3.32,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "labs.google",
+    "label": 0,
+    "ageDays": 1134,
+    "entropia": 2.72,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "kahoot.it",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 2.5,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "ixl.com",
+    "label": 0,
+    "ageDays": 11405,
+    "entropia": 2.58,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "wiktionary.org",
+    "label": 0,
+    "ageDays": 8558,
+    "entropia": 3.24,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "lc.chat",
+    "label": 0,
+    "ageDays": 3729,
+    "entropia": 2.25,
+    "score": 3,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "naukri.com",
+    "label": 0,
+    "ageDays": 10646,
+    "entropia": 3.17,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "datadome.co",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 2.72,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "ap4r.com",
+    "label": 0,
+    "ageDays": 1874,
+    "entropia": 2.81,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "b7510.com",
+    "label": 0,
+    "ageDays": 1885,
+    "entropia": 3,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "mydramalist.com",
+    "label": 0,
+    "ageDays": 6486,
+    "entropia": 3.32,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "oneme.ru",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 2.52,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "championat.com",
+    "label": 0,
+    "ageDays": 7603,
+    "entropia": 3.09,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "vietnam.vn",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 2.73,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "meta.com",
+    "label": 0,
+    "ageDays": 12903,
+    "entropia": 2.52,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "redtube.com",
+    "label": 0,
+    "ageDays": 7437,
+    "entropia": 3.12,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "cdiscount.com",
+    "label": 0,
+    "ageDays": 10077,
+    "entropia": 3.02,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "dw.com",
+    "label": 0,
+    "ageDays": 11487,
+    "entropia": 2.32,
+    "score": 3,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "ruliweb.com",
+    "label": 0,
+    "ageDays": 9536,
+    "entropia": 3.32,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "pikabu.ru",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 2.75,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "emag.ro",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 2.58,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "noodlemagazine.com",
+    "label": 0,
+    "ageDays": 2892,
+    "entropia": 3.34,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "zozo.jp",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 1.92,
+    "score": 40,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "postgresql.org",
+    "label": 0,
+    "ageDays": 10802,
+    "entropia": 3.09,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "polybuzz.ai",
+    "label": 0,
+    "ageDays": 580,
+    "entropia": 3.12,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "sun.com",
+    "label": 0,
+    "ageDays": 14672,
+    "entropia": 2.58,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "jusbrasil.com.br",
+    "label": 0,
+    "ageDays": 6638,
+    "entropia": 3.38,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "actu.fr",
+    "label": 0,
+    "ageDays": 9568,
+    "entropia": 2.58,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "admin.ch",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 2.81,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "wisc.edu",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 2.81,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "avito.st",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 2.52,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "kernel.org",
+    "label": 0,
+    "ageDays": 10666,
+    "entropia": 2.73,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "justdial.com",
+    "label": 0,
+    "ageDays": 10414,
+    "entropia": 3.46,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "safety.google",
+    "label": 0,
+    "ageDays": 2946,
+    "entropia": 3.08,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "kakao.com",
+    "label": 0,
+    "ageDays": 10734,
+    "entropia": 2.25,
+    "score": 3,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "hik-connect.com",
+    "label": 0,
+    "ageDays": 3805,
+    "entropia": 3.18,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "calculator.net",
+    "label": 0,
+    "ageDays": 10179,
+    "entropia": 3.09,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "mmechocaptiveportal.com",
+    "label": 0,
+    "ageDays": 1784,
+    "entropia": 3.45,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "akamaitechnologies.com",
+    "label": 0,
+    "ageDays": 10137,
+    "entropia": 3.56,
+    "score": 31,
+    "nivel": "moderate",
+    "rdapError": null
+  },
+  {
+    "domain": "yimg.com",
+    "label": 0,
+    "ageDays": 10598,
+    "entropia": 2.52,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "ilfattoquotidiano.it",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 3.05,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "subito.it",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 2.5,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "dlsite.com",
+    "label": 0,
+    "ageDays": 9395,
+    "entropia": 3.17,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "xxxbp.tv",
+    "label": 0,
+    "ageDays": 1430,
+    "entropia": 2.13,
+    "score": 3,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "xvideos-cdn.com",
+    "label": 0,
+    "ageDays": 3190,
+    "entropia": 3.38,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "tbank.ru",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 2.81,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "rajasthan.gov.in",
+    "label": 0,
+    "ageDays": 8390,
+    "entropia": 3.32,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "inven.co.kr",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 2.95,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "aternos.org",
+    "label": 0,
+    "ageDays": 4648,
+    "entropia": 2.92,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "groww.in",
+    "label": 0,
+    "ageDays": 3701,
+    "entropia": 2.52,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "id.me",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 2,
+    "score": 40,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "leroymerlin.fr",
+    "label": 0,
+    "ageDays": 10841,
+    "entropia": 3.03,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "autotrader.co.uk",
+    "label": 0,
+    "ageDays": 11390,
+    "entropia": 3.09,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "fedex.com",
+    "label": 0,
+    "ageDays": 12867,
+    "entropia": 2.75,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "9ffyu1g9c.com",
+    "label": 0,
+    "ageDays": 246,
+    "entropia": 3.08,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "ucla.edu",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 2.52,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "t-s1-msedge.net",
+    "label": 0,
+    "ageDays": 1554,
+    "entropia": 3.04,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "donmai.us",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 3,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "carsensor.net",
+    "label": 0,
+    "ageDays": 8846,
+    "entropia": 2.92,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "publicnode.com",
+    "label": 0,
+    "ageDays": 3563,
+    "entropia": 3.39,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "funpay.com",
+    "label": 0,
+    "ageDays": 6099,
+    "entropia": 3.17,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "pornone.com",
+    "label": 0,
+    "ageDays": 9968,
+    "entropia": 2.65,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "hollywoodbets.net",
+    "label": 0,
+    "ageDays": 8251,
+    "entropia": 3.33,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "fmkorea.com",
+    "label": 0,
+    "ageDays": 9206,
+    "entropia": 2.92,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "boursorama.com",
+    "label": 0,
+    "ageDays": 10307,
+    "entropia": 2.87,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "futbin.com",
+    "label": 0,
+    "ageDays": 4441,
+    "entropia": 3.17,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "youjizz.com",
+    "label": 0,
+    "ageDays": 6784,
+    "entropia": 2.92,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "hpeprint.com",
+    "label": 0,
+    "ageDays": 6798,
+    "entropia": 3.28,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "txnhh.com",
+    "label": 0,
+    "ageDays": 771,
+    "entropia": 2.75,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "uci.edu",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 2.25,
+    "score": 40,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "vercel-dns-017.com",
+    "label": 0,
+    "ageDays": 473,
+    "entropia": 3.73,
+    "score": 31,
+    "nivel": "moderate",
+    "rdapError": null
+  },
+  {
+    "domain": "e621.net",
+    "label": 0,
+    "ageDays": 7231,
+    "entropia": 2.52,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "freecash.com",
+    "label": 0,
+    "ageDays": 9977,
+    "entropia": 3.1,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "crn77.com",
+    "label": 0,
+    "ageDays": 1532,
+    "entropia": 2.5,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "gcash.com",
+    "label": 0,
+    "ageDays": 10234,
+    "entropia": 2.75,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "apigee.net",
+    "label": 0,
+    "ageDays": 6269,
+    "entropia": 2.64,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "asurascans.com",
+    "label": 0,
+    "ageDays": 2161,
+    "entropia": 2.82,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "ajio.com",
+    "label": 0,
+    "ageDays": 6542,
+    "entropia": 2.52,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "dantri.com.vn",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 3.28,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "imagefap.com",
+    "label": 0,
+    "ageDays": 7409,
+    "entropia": 3.1,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "jalan.net",
+    "label": 0,
+    "ageDays": 9997,
+    "entropia": 2.5,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "xhtotal.com",
+    "label": 0,
+    "ageDays": 2059,
+    "entropia": 2.92,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "akismet.com",
+    "label": 0,
+    "ageDays": 7525,
+    "entropia": 3.12,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "xhspot.com",
+    "label": 0,
+    "ageDays": 2013,
+    "entropia": 2.95,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "sciencedaily.com",
+    "label": 0,
+    "ageDays": 11143,
+    "entropia": 3.32,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "aznude.com",
+    "label": 0,
+    "ageDays": 3912,
+    "entropia": 3.17,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "xnxx.tv",
+    "label": 0,
+    "ageDays": 7028,
+    "entropia": 1.79,
+    "score": 3,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "gst.gov.in",
+    "label": 0,
+    "ageDays": 3509,
+    "entropia": 2.75,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "turkiye.gov.tr",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 3.25,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "hitomi.la",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 2.75,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "coolmathgames.com",
+    "label": 0,
+    "ageDays": 8905,
+    "entropia": 3.16,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "xvv1deos.com",
+    "label": 0,
+    "ageDays": 677,
+    "entropia": 3.1,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "haberler.com",
+    "label": 0,
+    "ageDays": 9915,
+    "entropia": 3.1,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "novinky.cz",
+    "label": 0,
+    "ageDays": 10399,
+    "entropia": 2.95,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "sotwe.com",
+    "label": 0,
+    "ageDays": 2038,
+    "entropia": 2.75,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "fdown.net",
+    "label": 0,
+    "ageDays": 7513,
+    "entropia": 2.75,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "xhsocial.com",
+    "label": 0,
+    "ageDays": 1861,
+    "entropia": 3.1,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "fapello.com",
+    "label": 0,
+    "ageDays": 1682,
+    "entropia": 2.92,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "pornhub.org",
+    "label": 0,
+    "ageDays": 8073,
+    "entropia": 2.92,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "cloudflareclient.com",
+    "label": 0,
+    "ageDays": 2640,
+    "entropia": 3.54,
+    "score": 31,
+    "nivel": "moderate",
+    "rdapError": null
+  },
+  {
+    "domain": "e-hentai.org",
+    "label": 0,
+    "ageDays": 7711,
+    "entropia": 3.28,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "missav.ws",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 2.41,
+    "score": 40,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "thisvid.com",
+    "label": 0,
+    "ageDays": 5580,
+    "entropia": 3.12,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "cardgames.io",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 3.28,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "mangabuff.ru",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 2.91,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "imhentai.xxx",
+    "label": 0,
+    "ageDays": 1902,
+    "entropia": 2.85,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "rfihub.com",
+    "label": 0,
+    "ageDays": 6579,
+    "entropia": 3.17,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "mbga.jp",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 2.58,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "sex-studentki.team",
+    "label": 0,
+    "ageDays": 384,
+    "entropia": 3.41,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "sportybet.com",
+    "label": 0,
+    "ageDays": 8511,
+    "entropia": 3.25,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "pornhat.com",
+    "label": 0,
+    "ageDays": 5136,
+    "entropia": 3.12,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "starfall.com",
+    "label": 0,
+    "ageDays": 10519,
+    "entropia": 3.1,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "rule34video.com",
+    "label": 0,
+    "ageDays": 2704,
+    "entropia": 3.52,
+    "score": 31,
+    "nivel": "moderate",
+    "rdapError": null
+  },
+  {
+    "domain": "ctdns.cn",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 2.24,
+    "score": 40,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "weathernews.jp",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 3.18,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "tenki.jp",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 2.81,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "dagbladet.no",
+    "label": 0,
+    "ageDays": 2787,
+    "entropia": 3.1,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "magazineluiza.com.br",
+    "label": 0,
+    "ageDays": 10453,
+    "entropia": 3.57,
+    "score": 31,
+    "nivel": "moderate",
+    "rdapError": null
+  },
+  {
+    "domain": "faphouse2.com",
+    "label": 0,
+    "ageDays": 790,
+    "entropia": 3.42,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "mangago.me",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 2.5,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "in.net",
+    "label": 0,
+    "ageDays": 11529,
+    "entropia": 1.92,
+    "score": 3,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "russianfood.com",
+    "label": 0,
+    "ageDays": 10422,
+    "entropia": 3.32,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "elsevier.com",
+    "label": 0,
+    "ageDays": 12010,
+    "entropia": 3.03,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "simpcity.cr",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 2.92,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "fetch failed"
+  },
+  {
+    "domain": "bookmyshow.com",
+    "label": 0,
+    "ageDays": 7028,
+    "entropia": 2.93,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "ultradns.com",
+    "label": 0,
+    "ageDays": 10187,
+    "entropia": 3.46,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "platorelay.com",
+    "label": 0,
+    "ageDays": 695,
+    "entropia": 3.24,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "vercel-dns-3.com",
+    "label": 0,
+    "ageDays": 628,
+    "entropia": 3.51,
+    "score": 31,
+    "nivel": "moderate",
+    "rdapError": null
+  },
+  {
+    "domain": "inps.it",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 2.25,
+    "score": 40,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "missav.live",
+    "label": 0,
+    "ageDays": 1627,
+    "entropia": 2.72,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "contextweb.com",
+    "label": 0,
+    "ageDays": 9560,
+    "entropia": 3.09,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "navitime.co.jp",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 3.42,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "ilmeteo.it",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 2.5,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "ixxx.com",
+    "label": 0,
+    "ageDays": 10102,
+    "entropia": 2.13,
+    "score": 3,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "filmweb.pl",
+    "label": 0,
+    "ageDays": 10355,
+    "entropia": 2.95,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "cityheaven.net",
+    "label": 0,
+    "ageDays": 9436,
+    "entropia": 3.03,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "nesine.com",
+    "label": 0,
+    "ageDays": 8189,
+    "entropia": 2.73,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "18comic.vip",
+    "label": 0,
+    "ageDays": 2429,
+    "entropia": 2.92,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "toyhou.se",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 2.75,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "suumo.jp",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 2.52,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "s8ey.com",
+    "label": 0,
+    "ageDays": 1711,
+    "entropia": 2.81,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "idealista.it",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 2.66,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "uidai.gov.in",
+    "label": 0,
+    "ageDays": 6169,
+    "entropia": 2.85,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "ntp.br",
+    "label": 0,
+    "ageDays": 7117,
+    "entropia": 2.32,
+    "score": 3,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "iltalehti.fi",
+    "label": 0,
+    "ageDays": 12923,
+    "entropia": 2.66,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "zedge.net",
+    "label": 0,
+    "ageDays": 8531,
+    "entropia": 2.41,
+    "score": 3,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "att.com",
+    "label": 0,
+    "ageDays": 14635,
+    "entropia": 2.25,
+    "score": 3,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "mediaexpert.pl",
+    "label": 0,
+    "ageDays": 8730,
+    "entropia": 3.18,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "typing.com",
+    "label": 0,
+    "ageDays": 10639,
+    "entropia": 3.17,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "cqloud.com",
+    "label": 0,
+    "ageDays": 3918,
+    "entropia": 2.73,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "xhname.com",
+    "label": 0,
+    "ageDays": 1861,
+    "entropia": 2.95,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "travelandtourworld.com",
+    "label": 0,
+    "ageDays": 6220,
+    "entropia": 3.56,
+    "score": 31,
+    "nivel": "moderate",
+    "rdapError": null
+  },
+  {
+    "domain": "game8.jp",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 2.81,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "jagran.com",
+    "label": 0,
+    "ageDays": 10715,
+    "entropia": 2.95,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "dns.cn",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 1.92,
+    "score": 40,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "arca.live",
+    "label": 0,
+    "ageDays": 2119,
+    "entropia": 2.75,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "jiomart.com",
+    "label": 0,
+    "ageDays": 5088,
+    "entropia": 2.92,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "syosetu.com",
+    "label": 0,
+    "ageDays": 7305,
+    "entropia": 2.92,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "porno365.golf",
+    "label": 0,
+    "ageDays": 1514,
+    "entropia": 3.19,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "boardgamearena.com",
+    "label": 0,
+    "ageDays": 5667,
+    "entropia": 3.15,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "eeroup.com",
+    "label": 0,
+    "ageDays": 3875,
+    "entropia": 2.73,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "blic.rs",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 2.58,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "otomoto.pl",
+    "label": 0,
+    "ageDays": 8009,
+    "entropia": 2.06,
+    "score": 3,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "betway.co.za",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 3.12,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "sozcu.com.tr",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 2.92,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "protothema.gr",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 3.08,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "ovhcloud.com",
+    "label": 0,
+    "ageDays": 5290,
+    "entropia": 2.85,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "edgecastdns.net",
+    "label": 0,
+    "ageDays": 5018,
+    "entropia": 2.9,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "sky.com",
+    "label": 0,
+    "ageDays": 13929,
+    "entropia": 2.58,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "jutarnji.hr",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 2.92,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "restream-media.net",
+    "label": 0,
+    "ageDays": 681,
+    "entropia": 3.15,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "google.co.in",
+    "label": 0,
+    "ageDays": 8366,
+    "entropia": 2.65,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "ukdevilz.com",
+    "label": 0,
+    "ageDays": 3137,
+    "entropia": 3.46,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "eltiempo.es",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 2.85,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "index.hr",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 2.81,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "overwolf.com",
+    "label": 0,
+    "ageDays": 6113,
+    "entropia": 3.03,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "3bmeteo.com",
+    "label": 0,
+    "ageDays": 9897,
+    "entropia": 2.72,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "24h.com.vn",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 3,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "myinstants.com",
+    "label": 0,
+    "ageDays": 5868,
+    "entropia": 3.09,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "superporn.com",
+    "label": 0,
+    "ageDays": 10442,
+    "entropia": 3.08,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "gelbooru.com",
+    "label": 0,
+    "ageDays": 6934,
+    "entropia": 3.03,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "ekstrabladet.dk",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 3.09,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "canada.ca",
+    "label": 0,
+    "ageDays": 8576,
+    "entropia": 1.75,
+    "score": 3,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "immobiliare.it",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 2.93,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "bef77.com",
+    "label": 0,
+    "ageDays": 1344,
+    "entropia": 2.75,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "ssstik.io",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 2.16,
+    "score": 40,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "cardmarket.com",
+    "label": 0,
+    "ageDays": 9584,
+    "entropia": 3.09,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "sex-studentki.cafe",
+    "label": 0,
+    "ageDays": 168,
+    "entropia": 3.57,
+    "score": 31,
+    "nivel": "moderate",
+    "rdapError": null
+  },
+  {
+    "domain": "eenadu.net",
+    "label": 0,
+    "ageDays": 10698,
+    "entropia": 2.42,
+    "score": 3,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "fpo.xxx",
+    "label": 0,
+    "ageDays": 3719,
+    "entropia": 1.79,
+    "score": 3,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "jable.tv",
+    "label": 0,
+    "ageDays": 3332,
+    "entropia": 2.81,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "ficbook.net",
+    "label": 0,
+    "ageDays": 5548,
+    "entropia": 3.12,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "eci.gov.in",
+    "label": 0,
+    "ageDays": 8600,
+    "entropia": 2.75,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "luxuretv.com",
+    "label": 0,
+    "ageDays": 4879,
+    "entropia": 3.28,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "pussyspace.com",
+    "label": 0,
+    "ageDays": 4431,
+    "entropia": 3.03,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "foggymorningmist.com",
+    "label": 0,
+    "ageDays": 530,
+    "entropia": 3.29,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "granbluefantasy.jp",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 3.69,
+    "score": 68,
+    "nivel": "high",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "sexvid.xxx",
+    "label": 0,
+    "ageDays": 4740,
+    "entropia": 2.28,
+    "score": 3,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "netkeiba.com",
+    "label": 0,
+    "ageDays": 9830,
+    "entropia": 3.28,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "cam.ac.uk",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 2.24,
+    "score": 40,
+    "nivel": "moderate",
+    "rdapError": "RDAP_HTTP_404"
+  },
+  {
+    "domain": "cmoa.jp",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 2.58,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "property24.com",
+    "label": 0,
+    "ageDays": 9839,
+    "entropia": 3.24,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "site.com",
+    "label": 0,
+    "ageDays": 11464,
+    "entropia": 2.81,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "thexh.live",
+    "label": 0,
+    "ageDays": 112,
+    "entropia": 2.73,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "nosv.org",
+    "label": 0,
+    "ageDays": 7654,
+    "entropia": 2.52,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "hdtube.porn",
+    "label": 0,
+    "ageDays": 4002,
+    "entropia": 3.32,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "forebet.com",
+    "label": 0,
+    "ageDays": 6097,
+    "entropia": 2.92,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "motherless.com",
+    "label": 0,
+    "ageDays": 7486,
+    "entropia": 3.09,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "shutterstock.com",
+    "label": 0,
+    "ageDays": 8349,
+    "entropia": 3.19,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "letsporn.com",
+    "label": 0,
+    "ageDays": 3080,
+    "entropia": 3.28,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "bt.dk",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 2,
+    "score": 40,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "liteapks.com",
+    "label": 0,
+    "ageDays": 1501,
+    "entropia": 3.46,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "xnxx2.com",
+    "label": 0,
+    "ageDays": 7244,
+    "entropia": 2.41,
+    "score": 3,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "iplt20.com",
+    "label": 0,
+    "ageDays": 6776,
+    "entropia": 3.17,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "sxyprn.com",
+    "label": 0,
+    "ageDays": 2601,
+    "entropia": 3.17,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "255md.com",
+    "label": 0,
+    "ageDays": 1717,
+    "entropia": 2.5,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "rat.xxx",
+    "label": 0,
+    "ageDays": 3401,
+    "entropia": 1.79,
+    "score": 3,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "mangafire.to",
+    "label": 0,
+    "ageDays": 595,
+    "entropia": 3.28,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "caliente.mx",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 3.12,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "epfindia.gov.in",
+    "label": 0,
+    "ageDays": 8176,
+    "entropia": 3.18,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "gamewith.jp",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 3.32,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "sondakika.com",
+    "label": 0,
+    "ageDays": 9629,
+    "entropia": 3.08,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "xvideos.es",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 2.73,
+    "score": 48,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "xnxx.health",
+    "label": 0,
+    "ageDays": 1549,
+    "entropia": 2.65,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "testbook.com",
+    "label": 0,
+    "ageDays": 8167,
+    "entropia": 2.85,
+    "score": 12,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "auth0.com",
+    "label": 0,
+    "ageDays": 4961,
+    "entropia": 3,
+    "score": 20,
+    "nivel": "low",
+    "rdapError": null
+  },
+  {
+    "domain": "xnxx.es",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 1.79,
+    "score": 40,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "dns-shop.ru",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 3.12,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  },
+  {
+    "domain": "statuspage.io",
+    "label": 0,
+    "ageDays": null,
+    "entropia": 3.08,
+    "score": 57,
+    "nivel": "moderate",
+    "rdapError": "RDAP_NO_SERVER"
+  }
+]

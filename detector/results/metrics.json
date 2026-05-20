@@ -1,0 +1,62 @@
+[
+  {
+    "threshold": 25,
+    "TP": 414,
+    "FP": 142,
+    "TN": 358,
+    "FN": 86,
+    "precision": 0.7446,
+    "recall": 0.828,
+    "f1": 0.7841,
+    "fpr": 0.284,
+    "accuracy": 0.772
+  },
+  {
+    "threshold": 40,
+    "TP": 408,
+    "FP": 118,
+    "TN": 382,
+    "FN": 92,
+    "precision": 0.7757,
+    "recall": 0.816,
+    "f1": 0.7953,
+    "fpr": 0.236,
+    "accuracy": 0.79
+  },
+  {
+    "threshold": 50,
+    "TP": 281,
+    "FP": 34,
+    "TN": 466,
+    "FN": 219,
+    "precision": 0.8921,
+    "recall": 0.562,
+    "f1": 0.6896,
+    "fpr": 0.068,
+    "accuracy": 0.747
+  },
+  {
+    "threshold": 60,
+    "TP": 188,
+    "FP": 3,
+    "TN": 497,
+    "FN": 312,
+    "precision": 0.9843,
+    "recall": 0.376,
+    "f1": 0.5441,
+    "fpr": 0.006,
+    "accuracy": 0.685
+  },
+  {
+    "threshold": 75,
+    "TP": 92,
+    "FP": 0,
+    "TN": 500,
+    "FN": 408,
+    "precision": 1,
+    "recall": 0.184,
+    "f1": 0.3108,
+    "fpr": 0,
+    "accuracy": 0.592
+  }
+]
