@@ -33,7 +33,7 @@ Score = 0.60 · score_edad + 0.25 · score_entropía + 0.10 · score_VT + 0.05 �
 
 ## Niveles de riesgo
 
-| Score | Nivel | Color | Comportamiento |
+| Score | Nivel | Color |
 |-------|-------|-------|----------------|
 | 0–30 | Bajo | 🟢 Verde |
 | 31–60 | Moderado | 🟡 Ámbar |
