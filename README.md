@@ -1,4 +1,4 @@
-# Phishing Detector — Extención Chrome
+# Phishing Detector — Extensión Chrome
 
 > TFM · Máster en Ciberseguridad · UAX  
 > Implementación de un plugin web que detecte la antigüedad de una página web al acceder a ella
