@@ -74,8 +74,9 @@ Evaluado sobre 1.000 dominios etiquetados (500 PhishTank + 500 Tranco Top 1M):
 
 1. Ve a `chrome://extensions`
 2. Activa **Modo desarrollador** (esquina superior derecha)
-3. Pulsa **Cargar descomprimida**
-4. Selecciona la carpeta `.output/chrome-mv3/`
+3. Descomprime el archivo ZIP en `.output\wxt-starter-0.1.0-chrome.zip`
+4. Pulsa **Cargar descomprimida**
+5. Selecciona la carpeta del archivo ZIP descomprimida
 
 ---
 
